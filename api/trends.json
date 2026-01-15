@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-15T15:24:24.860966+08:00",
-  "total_titles_processed": 1383,
+  "generated_at": "2026-01-15T16:28:30.682878+08:00",
+  "total_titles_processed": 1491,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 70,
       "titles": [
+        {
+          "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
+          "url": "https://news.ifeng.com/c/8pvmkwWCoVQ",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时39分 ~ 16时28分]"
+        },
         {
           "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
           "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
@@ -32,17 +44,6 @@
           "time_info": "[00时39分 ~ 04时29分]"
         },
         {
-          "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
-          "url": "https://news.ifeng.com/c/8pvmkwWCoVQ",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时39分 ~ 15时24分]"
-        },
-        {
           "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
           "url": "https://news.ifeng.com/c/8puu58c2sSy",
           "source": "凤凰网",
@@ -52,6 +53,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时29分 ~ 07时25分]"
+        },
+        {
+          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
+          "url": "https://wallstreetcn.com/articles/3763310",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时10分 ~ 16时28分]"
         },
         {
           "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
@@ -67,16 +80,18 @@
           "time_info": "[10时10分 ~ 15时24分]"
         },
         {
-          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
-          "url": "https://wallstreetcn.com/articles/3763310",
-          "source": "华尔街见闻",
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时10分 ~ 15时24分]"
+          "appearance_count": 7,
+          "time_info": "[12时39分 ~ 16时28分]"
         },
         {
           "title": "特朗普称取消与伊朗官员所有会面，美国到底会不会对伊朗发动军事行动？目前局势如何？美国为何「死盯」伊朗？",
@@ -91,19 +106,6 @@
           "time_info": "[12时01分 ~ 14时31分]"
         },
         {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时39分 ~ 15时24分]"
-        },
-        {
           "title": "特朗普再批鲍威尔",
           "url": "https://www.douyin.com/hot/2367805",
           "source": "抖音",
@@ -114,6 +116,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时25分 ~ 06时31分]"
+        },
+        {
+          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
+          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普将于美国东部时间下午2点签署法案，允许学校提供全脂牛奶和2%低脂牛奶。",
@@ -703,6 +716,17 @@
           "time_info": "06时31分"
         },
         {
+          "title": "外媒：特朗普称会前往委内瑞拉，并预计委代总统将访问美国",
+          "url": "https://wallstreetcn.com/livenews/3037765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "特朗普政府执政近一年给世界带来了啥",
           "url": "https://www.toutiao.com/trending/7595171405177684018/",
           "source": "今日头条",
@@ -786,6 +810,17 @@
       "match_count": 14,
       "titles": [
         {
+          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时10分 ~ 16时28分]"
+        },
+        {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
           "url": "https://wallstreetcn.com/articles/3763167",
           "source": "华尔街见闻",
@@ -796,17 +831,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时39分 ~ 07时25分]"
-        },
-        {
-          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时10分 ~ 15时24分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
@@ -1029,7 +1053,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价上涨 银行保管箱“一箱难求”",
@@ -1051,9 +1075,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "金价暴涨 金店怎么还亏钱了",
+          "url": "https://www.toutiao.com/trending/7595163487077142043/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "金十图示：2026年01月15日（周四）上海金早盘价为1033.61元/克，较国际金价（1031.08元/克）高2.53元/克",
@@ -1073,7 +1108,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         }
