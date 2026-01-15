@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T13:29:01.523753+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-01-15T14:31:36.414066+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
@@ -50,8 +50,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 13时29分]"
+          "appearance_count": 5,
+          "time_info": "[12时39分 ~ 14时31分]"
         },
         {
           "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
@@ -63,8 +63,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时10分 ~ 13时29分]"
+          "appearance_count": 8,
+          "time_info": "[10时10分 ~ 14时31分]"
         },
         {
           "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
@@ -75,8 +75,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时10分 ~ 13时29分]"
+          "appearance_count": 8,
+          "time_info": "[10时10分 ~ 14时31分]"
         },
         {
           "title": "特朗普称取消与伊朗官员所有会面，美国到底会不会对伊朗发动军事行动？目前局势如何？美国为何「死盯」伊朗？",
@@ -87,8 +87,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 13时29分]"
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 14时31分]"
         },
         {
           "title": "特朗普再批鲍威尔",
@@ -136,6 +136,19 @@
           "time_info": "05时30分"
         },
         {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时39分 ~ 14时31分]"
+        },
+        {
           "title": "标普500能源指数回吐涨幅，美国总统特朗普谈及伊朗。",
           "url": "https://wallstreetcn.com/livenews/3037278",
           "source": "华尔街见闻-快讯",
@@ -146,18 +159,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时30分]"
-        },
-        {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 13时29分]"
         },
         {
           "title": "美国总统特朗普签署行动，来保障国家稀土供应。",
@@ -214,11 +215,12 @@
           "url": "https://www.toutiao.com/trending/7594631182898397227/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 13时29分]"
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 14时31分]"
         },
         {
           "title": "特朗普称与委内瑞拉代总统通话",
@@ -756,6 +758,17 @@
           "time_info": "05时30分"
         },
         {
+          "title": "美国卫生部长“吐槽”特朗普体质",
+          "url": "https://www.toutiao.com/trending/7594934332809150515/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
           "title": "特朗普称伊朗“杀戮”已停止 或暗示暂缓对伊军事行动",
           "url": "https://flash.jin10.com/detail/20260115042905002800",
           "source": "金十数据",
@@ -785,6 +798,30 @@
           "time_info": "[00时39分 ~ 07时25分]"
         },
         {
+          "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
+          "url": "https://www.cls.cn/detail/2258154",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时24分 ~ 14时31分]"
+        },
+        {
+          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时10分 ~ 14时31分]"
+        },
+        {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
           "url": "https://wallstreetcn.com/articles/3763270",
           "source": "华尔街见闻",
@@ -796,30 +833,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时42分 ~ 06时31分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
-          "url": "https://www.cls.cn/detail/2258154",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时24分 ~ 13时29分]"
-        },
-        {
-          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时10分 ~ 13时29分]"
         },
         {
           "title": "美股集体低开 携程跌近17%",
@@ -1083,11 +1096,12 @@
           "source": "今日头条",
           "ranks": [
             24,
-            1
+            1,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 13时29分]"
+          "appearance_count": 5,
+          "time_info": "[12时39分 ~ 14时31分]"
         },
         {
           "title": "金十图示：2026年01月15日（周四）上海金早盘价为1033.61元/克，较国际金价（1031.08元/克）高2.53元/克",
