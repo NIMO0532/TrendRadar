@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T04:22:13.411376+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-01-20T05:18:25.227286+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时22分 ~ 04时22分]"
+          "appearance_count": 7,
+          "time_info": "[01时22分 ~ 05时18分]"
         },
         {
           "title": "决定黄金价格的三大属性",
@@ -30,11 +30,12 @@
             9,
             4,
             19,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 05时18分]"
         }
       ]
     },
@@ -67,8 +68,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 05时18分]"
         }
       ]
     }
