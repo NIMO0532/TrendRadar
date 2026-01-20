@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T11:42:46.584256+08:00",
-  "total_titles_processed": 920,
+  "generated_at": "2026-01-20T12:43:38.948724+08:00",
+  "total_titles_processed": 1014,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 11时42分]"
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 12时43分]"
         },
         {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
           "url": "https://www.cls.cn/detail/2262946",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 12时43分]"
         },
         {
           "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
@@ -70,8 +72,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时22分 ~ 11时42分]"
+          "appearance_count": 13,
+          "time_info": "[01时22分 ~ 12时43分]"
         },
         {
           "title": "决定黄金价格的三大属性",
@@ -96,7 +98,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         }
@@ -125,8 +127,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 11时42分]"
+          "appearance_count": 4,
+          "time_info": "[07时19分 ~ 12时43分]"
         },
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，美元走低，避险情绪推金银新高",
