@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T04:11:39.160944+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-01-21T05:19:56.666784+08:00",
+  "total_titles_processed": 613,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 04时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 05时19分]"
         },
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 04时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 05时19分]"
         },
         {
           "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 04时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 05时19分]"
         },
         {
           "title": "美股三大股指持续走低，标普500指数跌超2%，道指现跌约1.8%，纳指跌2.2%。",
@@ -48,7 +48,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
         },
@@ -120,7 +120,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
         },
@@ -131,7 +131,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
         },
@@ -142,7 +142,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
         },
@@ -172,8 +172,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 04时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 05时19分]"
         },
         {
           "title": "金价",
@@ -184,8 +184,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 04时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 05时19分]"
         }
       ]
     },
