@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T02:39:31.611425+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-01-22T03:25:55.552272+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时25分]"
         },
         {
           "title": "特朗普达沃斯发言改善风险情绪，美股指齐涨，英特尔涨11%，存储概念新高不断，现货白银日内跌2%",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时25分]"
         },
         {
           "title": "美股涨幅大幅收窄，数字货币大跌",
@@ -35,11 +35,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 02时39分]"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时25分]"
         },
         {
           "title": "特朗普达沃斯演讲再提“收购格陵兰岛” 但否认将动武强夺 美股、黄金短线震荡",
@@ -70,7 +71,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
         },
@@ -81,7 +82,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
         },
@@ -128,8 +129,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时25分]"
         }
       ]
     },
