@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T18:25:44.273573+08:00",
-  "total_titles_processed": 1689,
+  "generated_at": "2026-01-22T19:22:04.014473+08:00",
+  "total_titles_processed": 1779,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时27分 ~ 18时25分]"
+          "appearance_count": 13,
+          "time_info": "[09时27分 ~ 19时22分]"
         },
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -63,8 +63,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时27分 ~ 18时25分]"
+          "appearance_count": 13,
+          "time_info": "[09时27分 ~ 19时22分]"
         },
         {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -260,7 +260,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -384,8 +384,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 18时25分]"
+          "appearance_count": 5,
+          "time_info": "[16时29分 ~ 19时22分]"
         },
         {
           "title": "男子趁金价高涨出手500克金条",
@@ -481,7 +481,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "殖人天塌了,马斯克亲证斩杀线",
@@ -520,6 +520,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时46分 ~ 13时27分]"
+        },
+        {
+          "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
+          "url": "https://www.cls.cn/detail/2266641",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 19时22分]"
         },
         {
           "title": "特朗普对贸易战“踩刹车” 马斯克据悉希望在7月前让SpaceX上市 | 环球市场",
