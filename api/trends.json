@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T12:46:19.596921+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-01-22T13:27:21.981713+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时27分 ~ 12时46分]"
+          "appearance_count": 6,
+          "time_info": "[09时27分 ~ 13时27分]"
         },
         {
           "title": "美股收盘：“TACO交易”再现 特朗普取消对欧加征关税 三大指数均涨超1%",
@@ -51,8 +51,20 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时23分 ~ 13时27分]"
+        },
+        {
+          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
+          "url": "https://wallstreetcn.com/articles/3763863",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时23分 ~ 12时46分]"
+          "time_info": "[09时27分 ~ 13时27分]"
         },
         {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -64,17 +76,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
-          "url": "https://wallstreetcn.com/articles/3763863",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时27分 ~ 12时46分]"
         },
         {
           "title": "美股涨幅大幅收窄，数字货币大跌",
@@ -291,8 +292,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时46分 ~ 12时46分]"
+          "appearance_count": 4,
+          "time_info": "[11时46分 ~ 13时27分]"
         },
         {
           "title": "金价在亚太午盘创历史新高，特朗普所谓格陵兰“协议框架”带来一波V型走势",
@@ -433,11 +434,12 @@
           "url": "https://search.bilibili.com/all?keyword=xAI%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A7%A3%E9%9B%87",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时46分 ~ 12时46分]"
+          "appearance_count": 4,
+          "time_info": "[11时46分 ~ 13时27分]"
         },
         {
           "title": "马斯克据悉希望在7月前让SpaceX上市 力争率先实现数据中心上太空",
@@ -449,8 +451,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时27分 ~ 12时46分]"
+          "appearance_count": 6,
+          "time_info": "[09时27分 ~ 13时27分]"
         },
         {
           "title": "特朗普对贸易战“踩刹车” 马斯克据悉希望在7月前让SpaceX上市 | 环球市场",
@@ -461,8 +463,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时46分 ~ 12时46分]"
+          "appearance_count": 4,
+          "time_info": "[11时46分 ~ 13时27分]"
         },
         {
           "title": "事关AI聊天机器人和自动驾驶！马斯克和奥尔特曼隔空互喷",
