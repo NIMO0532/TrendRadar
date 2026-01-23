@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T04:23:28.976751+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-01-24T05:19:58.443052+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 04时23分]"
+          "appearance_count": 3,
+          "time_info": "[03时23分 ~ 05时19分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）美股热门股票行情一览（美股盘中）",
@@ -135,8 +135,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 04时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 05时19分]"
         }
       ]
     }
