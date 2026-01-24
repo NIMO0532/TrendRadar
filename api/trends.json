@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T12:34:25.550080+08:00",
-  "total_titles_processed": 896,
+  "generated_at": "2026-01-24T13:20:49.990369+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时19分 ~ 12时34分]"
+          "appearance_count": 5,
+          "time_info": "[07时19分 ~ 13时20分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
+          "url": "https://www.cls.cn/detail/2268496",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时19分 ~ 13时20分]"
         },
         {
           "title": "Sable Offshore（SOC）美股下跌13%。",
@@ -41,18 +54,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时23分 ~ 07时19分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
-          "url": "https://www.cls.cn/detail/2268496",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时19分 ~ 12时34分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.97%，报434.46点，本周累上涨9.99%，整体持续走高。 （全球时段）纽约证交所ARCA金矿开采商指数涨2.38%，报3039.09点，本周累涨10.09%。 （美股）原材料指数收涨1.26%，报265.28点，本周累涨5.18%。 （美股）金属与矿业指数收涨1.91%，报252.45点，本周累涨4.36%。",
@@ -224,11 +225,12 @@
           "ranks": [
             10,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 13时20分]"
         },
         {
           "title": "特朗普自创委员会后，马斯克灵魂发问：和平还是瓜分？",
