@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T18:20:15.979911+08:00",
-  "total_titles_processed": 1062,
+  "generated_at": "2026-01-25T19:16:43.263376+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,20 @@
           "time_info": "[00时22分 ~ 07时18分]"
         },
         {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            15,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时29分 ~ 19时16分]"
+        },
+        {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -33,19 +47,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时26分 ~ 16时24分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时29分 ~ 18时20分]"
         },
         {
           "title": "金价疯涨的底层逻辑",
@@ -97,11 +98,12 @@
             8,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时22分 ~ 18时20分]"
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 19时16分]"
         }
       ]
     },
@@ -145,11 +147,12 @@
           "ranks": [
             2,
             5,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 18时20分]"
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 19时16分]"
         },
         {
           "title": "白银价格跟随黄金狂飙",
