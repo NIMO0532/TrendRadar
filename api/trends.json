@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T03:16:02.619934+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2026-01-26T04:21:47.309828+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时21分]"
         }
       ]
     },
@@ -29,11 +29,12 @@
           "url": "https://flash.jin10.com/detail/20260125221344220800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时21分]"
         }
       ]
     }
