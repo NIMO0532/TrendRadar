@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T13:27:12.595301+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2026-01-25T14:29:19.876784+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "胖东来金饰每克便宜 200 元，其质量如何？为什么胖东来的金价如此有竞争力？",
@@ -25,11 +25,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 13时27分]"
+          "appearance_count": 3,
+          "time_info": "[13时26分 ~ 14时29分]"
         },
         {
           "title": "金价疯涨的底层逻辑",
@@ -41,6 +42,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时16分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         }
       ]
     },
@@ -80,11 +92,12 @@
             7,
             8,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 13时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 14时29分]"
         }
       ]
     },
