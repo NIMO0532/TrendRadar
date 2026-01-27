@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T17:31:48.448461+08:00",
-  "total_titles_processed": 1566,
+  "generated_at": "2026-01-27T18:25:47.341844+08:00",
+  "total_titles_processed": 1648,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时20分 ~ 17时31分]"
+          "appearance_count": 13,
+          "time_info": "[07时20分 ~ 18时25分]"
         },
         {
           "title": "美股收盘：三大指数集体上涨 美政府将入股稀土公司",
@@ -62,7 +62,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -73,7 +73,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -312,7 +312,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -323,7 +323,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         }
@@ -442,7 +442,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         }
