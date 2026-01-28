@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T22:28:50.203943+08:00",
-  "total_titles_processed": 2075,
+  "generated_at": "2026-01-28T23:31:38.829185+08:00",
+  "total_titles_processed": 2179,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -49,9 +49,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
+        },
+        {
+          "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
+          "url": "https://www.cls.cn/detail/2272925",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时46分 ~ 23时31分]"
         },
         {
           "title": "金十图示：2026年01月27日（周二）美股热门股票行情一览（美股收盘）",
@@ -131,18 +144,6 @@
           "time_info": "05时17分"
         },
         {
-          "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
-          "url": "https://www.cls.cn/detail/2272925",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时46分 ~ 22时28分]"
-        },
-        {
           "title": "GE Vernova美股盘前走低，现跌近3%，此前一度涨超7%。",
           "url": "https://wallstreetcn.com/livenews/3045621",
           "source": "华尔街见闻-快讯",
@@ -177,6 +178,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时44分 ~ 21时46分]"
+        },
+        {
+          "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2273158",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 23时31分]"
         },
         {
           "title": "星巴克美股盘前涨近10%，公司第一财季净营收高于预估。",
@@ -237,6 +250,17 @@
           "time_info": "20时44分"
         },
         {
+          "title": "彭博数据显示，阿斯麦控股（荷兰阿姆斯特丹股价）转跌，此前一度涨7.5%。 阿斯麦ADR也转跌，美股盘初也一度涨超2.67%。",
+          "url": "https://wallstreetcn.com/livenews/3045661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "（美股）费城金银指数收涨1.00%，报440.62点，早盘显著下挫，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.98%，报3099.58点，美股时段呈现出V形反转。 （美股）原材料指数收涨0.39%，（美股）金属与矿业指数收涨2.24%。",
           "url": "https://wallstreetcn.com/livenews/3045005",
           "source": "华尔街见闻-快讯",
@@ -259,15 +283,15 @@
           "time_info": "15时24分"
         },
         {
-          "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2273158",
-          "source": "财联社热门",
+          "title": "半导体ETF美股盘初涨1.92%，全球科技股指数ETF涨0.91%，科技行业ETF涨0.84%，领跑行业ETF。",
+          "url": "https://wallstreetcn.com/livenews/3045657",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时28分"
+          "time_info": "23时31分"
         },
         {
           "title": "半导体ETF收涨2.1%，领跑美股行业ETF，标普保健板块跌超1.6%",
@@ -342,7 +366,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -361,7 +385,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
@@ -383,8 +407,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时33分 ~ 22时28分]"
+          "appearance_count": 12,
+          "time_info": "[14时33分 ~ 23时31分]"
         },
         {
           "title": "黄金价格大涨又大跌，是走还是留？",
@@ -414,6 +438,34 @@
           "time_info": "[02时35分 ~ 18时26分]"
         },
         {
+          "title": "金价波动如何影响实体金店",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时43分 ~ 23时31分]"
+        },
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6,
+            29,
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时32分 ~ 23时31分]"
+        },
+        {
           "title": "黄金价格暴涨暴跌 是走还是留",
           "url": "https://www.toutiao.com/trending/7600200790535310911/",
           "source": "今日头条",
@@ -425,20 +477,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时42分 ~ 17时32分]"
-        },
-        {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6,
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时32分 ~ 22时28分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -456,16 +494,15 @@
           "time_info": "[11时43分 ~ 16时29分]"
         },
         {
-          "title": "金价波动如何影响实体金店",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
-          "source": "bilibili 热搜",
+          "title": "渣打：金价出现任何回调都是买入机会",
+          "url": "https://www.toutiao.com/trending/7600387008329944595/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时43分 ~ 22时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "四川黄金：若未来黄金价格大幅波动，将给经营业绩带来较大影响",
@@ -485,11 +522,12 @@
           "ranks": [
             10,
             19,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时43分 ~ 22时28分]"
+          "appearance_count": 5,
+          "time_info": "[20时43分 ~ 23时31分]"
         },
         {
           "title": "专家谈国际金价加速上涨的背后逻辑",
