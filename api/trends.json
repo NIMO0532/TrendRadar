@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T07:20:16.030964+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2026-01-28T09:28:14.254762+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 06时21分]"
+        },
+        {
+          "title": "美股收盘：六巨头走强标普创新高 美光等存储股重拾涨势",
+          "url": "https://www.cls.cn/detail/2271921",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
         },
         {
           "title": "金十图示：2026年01月27日（周二）美股热门股票行情一览（美股收盘）",
@@ -156,7 +167,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
@@ -204,6 +215,28 @@
           "time_info": "03时25分"
         },
         {
+          "title": "软银拟向OpenAI追投至多300亿美元",
+          "url": "https://flash.jin10.com/detail/20260128085403401800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "软银正商谈向OpenAI追加投资高达300亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3045072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "OpenAI推出面向科学家的全新工具Prism",
           "url": "https://flash.jin10.com/detail/20260128043059691800",
           "source": "金十数据",
@@ -218,20 +251,8 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "黄金价格大涨又大跌，是走还是留？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32472438",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时21分]"
-        },
         {
           "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
           "url": "https://wallstreetcn.com/articles/3764255",
@@ -243,8 +264,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时35分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[02时35分 ~ 09时28分]"
+        },
+        {
+          "title": "黄金价格大涨又大跌，是走还是留？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32472438",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 09时28分]"
+        },
+        {
+          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
+          "url": "https://www.cls.cn/detail/2271933",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
         },
         {
           "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
@@ -257,6 +301,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时20分]"
+        },
+        {
+          "title": "德意志银行表示，如果美元持续疲软，投资者将增加对非美元资产和实体资产的配置，那么2026年黄金价格可能会达到每盎司6000美元。",
+          "url": "https://wallstreetcn.com/livenews/3045069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         }
       ]
     },
