@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T15:24:55.948680+08:00",
-  "total_titles_processed": 1379,
+  "generated_at": "2026-01-28T16:29:35.568128+08:00",
+  "total_titles_processed": 1481,
   "failed_sources": [],
   "trends": [
     {
@@ -149,7 +149,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -224,8 +224,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 15时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 16时29分]"
         },
         {
           "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
@@ -238,8 +238,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时35分 ~ 15时24分]"
+          "appearance_count": 17,
+          "time_info": "[02时35分 ~ 16时29分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -249,11 +249,12 @@
             8,
             7,
             23,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 15时24分]"
+          "appearance_count": 7,
+          "time_info": "[11时43分 ~ 16时29分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
@@ -265,8 +266,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 15时24分]"
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 16时29分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -277,8 +278,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 15时24分]"
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 16时29分]"
         },
         {
           "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
@@ -339,11 +340,12 @@
             10,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 15时24分]"
+          "appearance_count": 7,
+          "time_info": "[11时43分 ~ 16时29分]"
         },
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
