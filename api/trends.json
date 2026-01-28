@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T06:24:49.722220+08:00",
-  "total_titles_processed": 675,
+  "generated_at": "2026-01-29T07:24:46.953771+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 07时24分]"
         },
         {
           "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
@@ -29,8 +29,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 07时24分]"
+        },
+        {
+          "title": "美联储决议无新意，美股涨跌互现，希捷飙升19%领涨存储股，黄金突破5400美元",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "特斯拉美股盘后快速回吐涨幅，该公司称2026年资本开支将超200亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3045885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "美股七巨头收盘播报｜周三（1月28日），美国科技股七巨头（Magnificent 7）指数涨0.22%，报209.62点，整体呈现出V形反转行情，美联储发布决议声明后持续走高。 “超大”市值科技股指数涨0.04%，报398.55点，跳空高开之后持续回吐涨幅并多次转跌。",
@@ -39,7 +61,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -61,7 +83,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -129,9 +151,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
+          "url": "https://wallstreetcn.com/livenews/3045867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "微软第二财季营收812.7亿美元，分析师预期803.1亿美元。第二财季智能云营收329.1亿美元，分析师预期323.9亿美元。 第二财季Azure与其他云营收（剔除汇率因素之后）增长38%，分析师预期增长38%。 第二财季资本开支包括375亿美元租赁，分析师预期362.6亿美元。 微软美股盘后重挫8.1%。",
@@ -140,7 +173,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -169,112 +202,20 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 8,
+      "keyword_group": "马斯克",
+      "match_count": 13,
       "titles": [
         {
-          "title": "渣打：金价出现任何回调都是买入机会",
-          "url": "https://www.toutiao.com/trending/7600387008329944595/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 06时24分]"
-        },
-        {
-          "title": "金价屡创历史新高意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%B1%A1%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 06时24分]"
-        },
-        {
-          "title": "金价波动如何影响实体金店",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            6,
-            27,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 06时24分]"
-        },
-        {
-          "title": "金价暴涨女子卖300克黄金变现30万",
-          "url": "https://www.toutiao.com/trending/7600256243789627398/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 06时24分]"
-        },
-        {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 06时24分]"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时34分 ~ 06时24分]"
-        },
-        {
-          "title": "美联储主席鲍威尔：未从金价上涨中解读出太多宏观信息。",
-          "url": "https://flash.jin10.com/detail/20260129041316561800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "金价在鲍威尔新闻发布会结束后刷新历史高位至5340美元上方",
-          "url": "https://wallstreetcn.com/livenews/3045814",
+          "title": "马斯克：特斯拉“有望”在4月份首发下一代Roadster。",
+          "url": "https://wallstreetcn.com/livenews/3045887",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 2,
-      "titles": [
+          "time_info": "07时24分"
+        },
         {
           "title": "报道：SpaceX上市时间可能定在6月以契合天象及马斯克生日",
           "url": "https://wallstreetcn.com/livenews/3045700",
@@ -297,6 +238,242 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：从长远来看，Optimus将对美国GDP产生非常重大的影响。",
+          "url": "https://flash.jin10.com/detail/20260129064449017800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：预计到今年年底，美国将有四分之一到一半的地区拥有完全自动驾驶汽车。",
+          "url": "https://flash.jin10.com/detail/20260129064128500800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：工厂中原本用于生产Model S和Model X的空间将用于生产Optimus人形机器人",
+          "url": "https://flash.jin10.com/detail/20260129064100713800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：奥斯汀的自动驾驶出租车不再有追踪车跟随。",
+          "url": "https://flash.jin10.com/detail/20260129063925747800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "马斯克：2026年将是“资本开支非常庞大的一年”。",
+          "url": "https://wallstreetcn.com/livenews/3045872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "提醒：特斯拉电话会开始，马斯克发表开场白讲话。",
+          "url": "https://wallstreetcn.com/livenews/3045871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：预计下个季度将逐步停产Model S和X。",
+          "url": "https://flash.jin10.com/detail/20260129063752077800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：2026年将是“非常大的资本支出年”。",
+          "url": "https://flash.jin10.com/detail/20260129063628907800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：将终止Model S和Model X项目。",
+          "url": "https://flash.jin10.com/detail/20260129063551897800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：公司正在对人工智能芯片进行“大规模投资”。",
+          "url": "https://flash.jin10.com/detail/20260129063537110800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "渣打：金价出现任何回调都是买入机会",
+          "url": "https://www.toutiao.com/trending/7600387008329944595/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 06时24分]"
+        },
+        {
+          "title": "金价屡创历史新高意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%B1%A1%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 07时24分]"
+        },
+        {
+          "title": "金价波动如何影响实体金店",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            6,
+            27,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 07时24分]"
+        },
+        {
+          "title": "金价暴涨女子卖300克黄金变现30万",
+          "url": "https://www.toutiao.com/trending/7600256243789627398/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 07时24分]"
+        },
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 07时24分]"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时34分 ~ 07时24分]"
+        },
+        {
+          "title": "渣打：金价任何回调都是买入机会",
+          "url": "https://www.toutiao.com/trending/7600387008329944595/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "美联储主席鲍威尔：未从金价上涨中解读出太多宏观信息。",
+          "url": "https://flash.jin10.com/detail/20260129041316561800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "金价在鲍威尔新闻发布会结束后刷新历史高位至5340美元上方",
+          "url": "https://wallstreetcn.com/livenews/3045814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         }
       ]
     }
