@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T15:39:23.721181+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2026-01-29T16:36:17.429059+08:00",
+  "total_titles_processed": 1534,
   "failed_sources": [],
   "trends": [
     {
@@ -216,7 +216,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "马斯克：特斯拉“有望”在4月份首发下一代Roadster。",
@@ -240,6 +240,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时31分]"
+        },
+        {
+          "title": "马斯克要发力机器人了？2026年训练、制造两手抓 第三代Optimus即将推出",
+          "url": "https://www.cls.cn/detail/2273549",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 16时36分]"
         },
         {
           "title": "马斯克：下一代Neuralink赛博增强将于今年晚些时候问世，其性能将提升3倍。Neuralink也已准备好进行首次盲视增强，这将使即使完全失明的人也能以低分辨率“看到东西”。",
@@ -450,11 +461,12 @@
             21,
             23,
             22,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 15时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时33分 ~ 16时36分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -492,13 +504,27 @@
           "time_info": "[02时34分 ~ 07时24分]"
         },
         {
+          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
+          "url": "https://www.cls.cn/detail/2273531",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 16时36分]"
+        },
+        {
           "title": "挪威石油基金：2025年基金价值增加1.526万亿挪威克朗。",
           "url": "https://flash.jin10.com/detail/20260129151543362800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -513,19 +539,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时24分 ~ 09时49分]"
-        },
-        {
-          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
-          "url": "https://www.cls.cn/detail/2273531",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时06分 ~ 15时39分]"
         },
         {
           "title": "金价",
