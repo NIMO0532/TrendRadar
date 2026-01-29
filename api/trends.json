@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T16:36:17.429059+08:00",
-  "total_titles_processed": 1534,
+  "generated_at": "2026-01-29T17:40:52.819486+08:00",
+  "total_titles_processed": 1638,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -136,6 +136,17 @@
           "time_info": "02时34分"
         },
         {
+          "title": "IBM(IBM.N)美股盘前涨7.9%，四季度业绩超出预期。",
+          "url": "https://flash.jin10.com/detail/20260129171935659800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260129050547411800",
           "source": "金十数据",
@@ -156,6 +167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "IBM(IBM.N)美股盘前上涨7.9%，其第四季度业绩超出预期。",
+          "url": "https://flash.jin10.com/detail/20260129171701650800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘后现涨3%。",
@@ -202,6 +224,28 @@
           "time_info": "05时28分"
         },
         {
+          "title": "美股盘前：Meta涨约7%，微软跌约6%，特斯拉涨约2%",
+          "url": "https://wallstreetcn.com/livenews/3046315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "好未来第三季度净营收7.702亿美元，预估7.846亿美元。 第三季度调整后每ADS收益 0.25美元，预估0.07美元。 好未来美股盘前涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3046314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "美股涨幅收窄，道指转跌，标普500指数持平，纳斯达克指数涨0.2%。",
           "url": "https://flash.jin10.com/detail/20260128235421935800",
           "source": "金十数据",
@@ -230,6 +274,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "马斯克要发力机器人了？2026年训练、制造两手抓 第三代Optimus即将推出",
+          "url": "https://www.cls.cn/detail/2273549",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 17时40分]"
+        },
+        {
           "title": "报道：SpaceX上市时间可能定在6月以契合天象及马斯克生日",
           "url": "https://wallstreetcn.com/livenews/3045700",
           "source": "华尔街见闻-快讯",
@@ -240,17 +295,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时31分]"
-        },
-        {
-          "title": "马斯克要发力机器人了？2026年训练、制造两手抓 第三代Optimus即将推出",
-          "url": "https://www.cls.cn/detail/2273549",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 16时36分]"
         },
         {
           "title": "马斯克：下一代Neuralink赛博增强将于今年晚些时候问世，其性能将提升3倍。Neuralink也已准备好进行首次盲视增强，这将使即使完全失明的人也能以低分辨率“看到东西”。",
@@ -465,8 +509,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 16时36分]"
+          "appearance_count": 19,
+          "time_info": "[00时33分 ~ 17时40分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -491,6 +535,21 @@
           "time_info": "[09时49分 ~ 14时43分]"
         },
         {
+          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
+          "url": "https://www.cls.cn/detail/2273531",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时06分 ~ 17时40分]"
+        },
+        {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -502,20 +561,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时34分 ~ 07时24分]"
-        },
-        {
-          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
-          "url": "https://www.cls.cn/detail/2273531",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时06分 ~ 16时36分]"
         },
         {
           "title": "挪威石油基金：2025年基金价值增加1.526万亿挪威克朗。",
@@ -623,6 +668,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "北方铜业：公司近期经营情况及内外部经营环境未发生重大变化。公司的主要产品阴极铜、黄金、白银等产品的市场价格大幅上涨，系本次股价异动的主要原因。",
+          "url": "https://wallstreetcn.com/livenews/3046337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "黄金主题LOF：提示投资者关注二级市场交易价格溢价风险",
+          "url": "https://wallstreetcn.com/livenews/3046327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         }
       ]
     }
