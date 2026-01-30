@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T13:44:36.992103+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2026-01-30T14:44:52.521029+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -18,8 +18,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时41分 ~ 13时44分]"
+          "appearance_count": 19,
+          "time_info": "[00时41分 ~ 14时44分]"
         },
         {
           "title": "金价",
@@ -58,8 +58,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时41分 ~ 13时44分]"
+          "appearance_count": 19,
+          "time_info": "[00时41分 ~ 14时44分]"
         },
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -108,11 +108,26 @@
           "ranks": [
             11,
             9,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时49分 ~ 13时44分]"
+          "appearance_count": 6,
+          "time_info": "[09时49分 ~ 14时44分]"
+        },
+        {
+          "title": "今日金价",
+          "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E6%97%A5%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            21,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时49分 ~ 14时44分]"
         },
         {
           "title": "为什么 2026 年 1 月 29 日晚上的黄金价格出现大跳水？",
@@ -126,29 +141,17 @@
           "time_info": "07时24分"
         },
         {
-          "title": "今日金价",
-          "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E6%97%A5%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时49分 ~ 13时44分]"
-        },
-        {
           "title": "黄金价格暴跌原因",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
             7,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 13时44分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 14时44分]"
         },
         {
           "title": "高盛：上调今明两年金价预测",
@@ -184,6 +187,17 @@
           "time_info": "[09时49分 ~ 09时50分]"
         },
         {
+          "title": "黄金价格回调开始了吗",
+          "url": "https://www.toutiao.com/trending/7600951694344405055/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时44分"
+        },
+        {
           "title": "金价跌幅扩大至5%。",
           "url": "https://wallstreetcn.com/livenews/3046584",
           "source": "华尔街见闻-快讯",
@@ -212,6 +226,17 @@
           "time_info": "[00时41分 ~ 06时26分]"
         },
         {
+          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时49分 ~ 14时44分]"
+        },
+        {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2274635",
           "source": "财联社热门",
@@ -226,17 +251,6 @@
           "time_info": "[00时41分 ~ 09时50分]"
         },
         {
-          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时49分 ~ 13时44分]"
-        },
-        {
           "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
           "url": "https://www.cls.cn/detail/2274922",
           "source": "财联社热门",
@@ -245,8 +259,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时24分 ~ 13时44分]"
+          "appearance_count": 7,
+          "time_info": "[07时24分 ~ 14时44分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银跳水后反弹，铜油走强",
