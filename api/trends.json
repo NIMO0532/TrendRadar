@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T04:23:51.680871+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2026-02-02T05:21:50.750660+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 04时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 05时21分]"
         },
         {
           "title": "Space X投资人：今年的IPO将是“史上最大的造富事件”，马斯克仍被低估，火箭运力过剩催生太空数据中心",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 05时21分]"
         },
         {
           "title": "马斯克回应曾试图前往爱泼斯坦小岛",
@@ -38,8 +38,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 05时21分]"
         }
       ]
     },
@@ -55,8 +55,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 05时21分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -66,8 +66,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 05时21分]"
         }
       ]
     },
@@ -83,8 +83,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 05时21分]"
         },
         {
           "title": "男子看金价下跌花20多万买200克",
@@ -95,8 +95,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 04时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时22分 ~ 05时21分]"
         }
       ]
     }
