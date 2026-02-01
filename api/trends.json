@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T21:41:51.875735+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-02-01T22:24:41.593827+08:00",
+  "total_titles_processed": 1271,
   "failed_sources": [],
   "trends": [
     {
@@ -125,11 +125,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 21时41分]"
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 22时24分]"
         },
         {
           "title": "金价遭遇过山车",
@@ -165,8 +166,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 21时41分]"
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 22时24分]"
         },
         {
           "title": "金价巨震 有人昨天赚5万今天倒亏4万",
@@ -265,7 +266,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "爆“马斯克曾试图前往爱泼斯坦小岛”，马斯克回应",
@@ -350,8 +351,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 21时41分]"
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 22时24分]"
         },
         {
           "title": "马斯克也转了！SpaceX申请部署100万颗卫星",
@@ -375,6 +376,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时36分 ~ 16时29分]"
+        },
+        {
+          "title": "马斯克回应曾试图前往爱泼斯坦小岛",
+          "url": "https://www.toutiao.com/trending/7601314667331846194/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "爱泼斯坦曾邀请马斯克上岛",
@@ -471,11 +483,12 @@
             1,
             6,
             11,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 21时41分]"
+          "appearance_count": 5,
+          "time_info": "[18时23分 ~ 22时24分]"
         },
         {
           "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
@@ -498,11 +511,12 @@
           "ranks": [
             11,
             16,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 21时41分]"
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 22时24分]"
         }
       ]
     },
