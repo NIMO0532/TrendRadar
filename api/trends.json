@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T18:42:09.448456+08:00",
-  "total_titles_processed": 1357,
+  "generated_at": "2026-02-02T19:34:46.921159+08:00",
+  "total_titles_processed": 1440,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             20,
             6,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时23分 ~ 18时42分]"
+          "appearance_count": 9,
+          "time_info": "[12时23分 ~ 19时34分]"
         },
         {
           "title": "【早报】金价巨震，银行密集提示风险；两只大牛股今日复牌",
@@ -272,8 +273,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时22分 ~ 18时42分]"
+          "appearance_count": 18,
+          "time_info": "[01时22分 ~ 19时34分]"
         },
         {
           "title": "Space X投资人：今年的IPO将是“史上最大的造富事件”，马斯克仍被低估，火箭运力过剩催生太空数据中心",
@@ -381,7 +382,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
