@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T19:34:46.921159+08:00",
-  "total_titles_processed": 1440,
+  "generated_at": "2026-02-02T20:55:05.759407+08:00",
+  "total_titles_processed": 1555,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
@@ -199,6 +199,17 @@
           "time_info": "[18时41分 ~ 18时42分]"
         },
         {
+          "title": "金价大跌金店回收挤爆了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E9%87%91%E5%BA%97%E5%9B%9E%E6%94%B6%E6%8C%A4%E7%88%86%E4%BA%86%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
           "title": "尽管金价暴跌，德意志银行维持对黄金价格为6000美元的预测。",
           "url": "https://flash.jin10.com/detail/20260202151209166800",
           "source": "金十数据",
@@ -257,7 +268,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "萝莉岛兽行曝光,马斯克急撇清",
@@ -270,11 +281,12 @@
             12,
             13,
             16,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时22分 ~ 19时34分]"
+          "appearance_count": 20,
+          "time_info": "[01时22分 ~ 20时55分]"
         },
         {
           "title": "Space X投资人：今年的IPO将是“史上最大的造富事件”，马斯克仍被低估，火箭运力过剩催生太空数据中心",
@@ -314,6 +326,39 @@
           "time_info": "[14时02分 ~ 17时44分]"
         },
         {
+          "title": "马斯克牵手印度裔女友参加婚礼",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%89%B5%E6%89%8B%E5%8D%B0%E5%BA%A6%E8%A3%94%E5%A5%B3%E5%8F%8B%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "马斯克发现岛上是少女派对果断离开",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%91%E7%8E%B0%E5%B2%9B%E4%B8%8A%E6%98%AF%E5%B0%91%E5%A5%B3%E6%B4%BE%E5%AF%B9%E6%9E%9C%E6%96%AD%E7%A6%BB%E5%BC%80%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "消息称马斯克推进SpaceX、xAI合并，最快本周达成协议",
+          "url": "https://flash.jin10.com/detail/20260202204430933800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
           "title": "马斯克：Grok Imagine 1.0 版本现已全面发布。",
           "url": "https://flash.jin10.com/detail/20260202115750959800",
           "source": "金十数据",
@@ -350,7 +395,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股期货亚市盘初走低，纳斯达克100指数期货跌0.8%，标普500指数期货跌0.6%。 现货黄金盘初大幅波动，最低报4783.98美元/盎司，目前反弹至4840美元一线附近，日内跌0.5%。 现货白银亦大幅波动，最低报80.53美元/盎司，目前反弹至82.15美元，日内跌2.7%。 布伦特原油期货亚市开盘下跌2.4%，至每桶67.78美元。",
@@ -418,6 +463,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
+        },
+        {
+          "title": "迪士尼美股盘前转涨，现涨超3%，公司第一季度调整后每股收益超市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3048339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         }
       ]
     },
@@ -453,6 +509,34 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
+          "url": "https://www.cls.cn/detail/2278016",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 20时55分]"
+        },
+        {
+          "title": "土耳其提高部分黄金、白银基金的最低价格限制。",
+          "url": "https://wallstreetcn.com/livenews/3048241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "越南",
       "match_count": 1,
       "titles": [
@@ -466,23 +550,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "土耳其提高部分黄金、白银基金的最低价格限制。",
-          "url": "https://wallstreetcn.com/livenews/3048241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时44分"
         }
       ]
     }
