@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T12:10:32.422244+08:00",
-  "total_titles_processed": 1051,
+  "generated_at": "2026-02-04T13:46:45.424980+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时26分 ~ 12时10分]"
+          "appearance_count": 6,
+          "time_info": "[07时26分 ~ 13时46分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -60,8 +60,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 12时10分]"
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 13时46分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -72,8 +72,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时26分 ~ 12时10分]"
+          "appearance_count": 6,
+          "time_info": "[07时26分 ~ 13时46分]"
         },
         {
           "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
@@ -84,8 +84,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时26分 ~ 12时10分]"
+          "appearance_count": 6,
+          "time_info": "[07时26分 ~ 13时46分]"
+        },
+        {
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "堡证券称美股步入季节性偏弱的2月，散户买入潮或显现疲态",
@@ -160,6 +171,18 @@
           "time_info": "[05时33分 ~ 06时28分]"
         },
         {
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 13时46分]"
+        },
+        {
           "title": "美股减肥药概念股周二哀鸿遍野，诺和诺德发布了最新业绩报告。 诺和诺德ADR收跌14.64%，硕迪生物跌6.75%，Goodrx跌5.26%，礼来跌3.9%，平价减肥药供应商Hims & Hers跌3.4%，辉瑞制药跌3.34%，阿斯利康跌2.17%，制药ETF跌1.86%，Viking Therapeutics跌1.7%，福泰制药跌1.36%，渤健BIIB跌1.3%。",
           "url": "https://wallstreetcn.com/livenews/3049330",
           "source": "华尔街见闻-快讯",
@@ -206,15 +229,15 @@
           "time_info": "07时27分"
         },
         {
-          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
-          "url": "https://wallstreetcn.com/articles/3764901",
+          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
+          "url": "https://wallstreetcn.com/articles/3764895",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时10分"
+          "time_info": "13时46分"
         },
         {
           "title": "美股延续跌势，道指下跌1.00%。",
@@ -264,7 +287,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -284,7 +307,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -306,9 +329,43 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "OpenAI：GPT-5.2/Codex模型的速度现已提升40%",
+          "url": "https://wallstreetcn.com/livenews/3049580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
+          "title": "OpenAI：GPT-5.2/Codex模型的速度已提升40%",
+          "url": "https://flash.jin10.com/detail/20260204131636619800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 13时46分]"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)对OpenAI的投资计划正在按计划推进。",
@@ -321,18 +378,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时45分 ~ 04时33分]"
-        },
-        {
-          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
-          "url": "https://www.cls.cn/detail/2279758",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 12时10分]"
         },
         {
           "title": "黄仁勋：英伟达希望参与OpenAI的IPO",
@@ -505,7 +550,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -531,8 +576,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时51分 ~ 12时10分]"
+          "appearance_count": 16,
+          "time_info": "[00时51分 ~ 13时46分]"
         },
         {
           "title": "马斯克，被传唤",
@@ -583,17 +628,6 @@
           "time_info": "[00时51分 ~ 12时10分]"
         },
         {
-          "title": "马斯克团队密访中国多家光伏企业？晶科能源：公司有与考察团接触",
-          "url": "https://wallstreetcn.com/livenews/3049557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
           "title": "马斯克就法国当局搜查X公司办公室一事回应称：这是一次政治攻击。",
           "url": "https://flash.jin10.com/detail/20260204045614918800",
           "source": "金十数据",
@@ -603,6 +637,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "马斯克团队密访中国多家光伏企业？晶科能源：公司有与考察团接触",
+          "url": "https://wallstreetcn.com/livenews/3049557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 13时46分]"
         },
         {
           "title": "被传唤后，马斯克发声",
@@ -616,6 +662,18 @@
           "time_info": "[09时49分 ~ 09时50分]"
         },
         {
+          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
+          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 13时46分]"
+        },
+        {
           "title": "马斯克被女儿爆料曾登爱泼斯坦岛",
           "url": "https://www.toutiao.com/trending/7602285893713723455/",
           "source": "今日头条",
@@ -625,17 +683,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 06时28分]"
-        },
-        {
-          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
-          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
         },
         {
           "title": "美国法官驳回了马斯克的请求，该请求关乎撤销美国证券交易委员会就其延迟披露增持推特股份所提起的诉讼。",
@@ -658,6 +705,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "马斯克放弃Model S/X背后",
+          "url": "https://www.toutiao.com/trending/7602833739852287530/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         }
       ]
     },
@@ -704,7 +762,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -715,7 +773,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         }
