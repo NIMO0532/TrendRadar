@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T17:41:03.744467+08:00",
-  "total_titles_processed": 1575,
+  "generated_at": "2026-02-04T18:36:52.662292+08:00",
+  "total_titles_processed": 1680,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时26分 ~ 17时41分]"
+          "appearance_count": 15,
+          "time_info": "[07时26分 ~ 18时36分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时49分 ~ 17时41分]"
+          "appearance_count": 13,
+          "time_info": "[09时49分 ~ 18时36分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -63,8 +63,20 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时46分 ~ 18时36分]"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[13时46分 ~ 17时41分]"
+          "time_info": "[14时46分 ~ 18时36分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -79,18 +91,6 @@
           "time_info": "[07时26分 ~ 14时47分]"
         },
         {
-          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时46分 ~ 17时41分]"
-        },
-        {
           "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
           "url": "https://www.cls.cn/detail/2279689",
           "source": "财联社热门",
@@ -103,6 +103,19 @@
           "time_info": "[07时26分 ~ 14时47分]"
         },
         {
+          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
+          "url": "https://wallstreetcn.com/articles/3764895",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时46分 ~ 18时36分]"
+        },
+        {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
           "url": "https://www.cls.cn/detail/2279540",
           "source": "财联社热门",
@@ -113,19 +126,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时51分 ~ 09时50分]"
-        },
-        {
-          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
-          "url": "https://wallstreetcn.com/articles/3764895",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时46分 ~ 17时41分]"
         },
         {
           "title": "堡证券称美股步入季节性偏弱的2月，散户买入潮或显现疲态",
@@ -264,7 +264,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -607,8 +607,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时51分 ~ 17时41分]"
+          "appearance_count": 25,
+          "time_info": "[00时51分 ~ 18时36分]"
         },
         {
           "title": "马斯克，被传唤",
@@ -693,6 +693,18 @@
           "time_info": "14时47分"
         },
         {
+          "title": "曝马斯克团队“摸底”中国光伏产业链",
+          "url": "https://www.toutiao.com/trending/7602056837328371731/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 18时36分]"
+        },
+        {
           "title": "马斯克放弃Model S/X背后",
           "url": "https://www.toutiao.com/trending/7602833739852287530/",
           "source": "今日头条",
@@ -704,6 +716,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时46分 ~ 15时43分]"
+        },
+        {
+          "title": "马斯克：爱泼斯坦的客户被抓多少了？是0诶",
+          "url": "https://news.ifeng.com/c/8qT0zrMPdnp",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时37分 ~ 18时36分]"
         },
         {
           "title": "马斯克团队密访中国多家光伏企业？晶科能源：公司有与考察团接触",
@@ -742,17 +765,6 @@
           "time_info": "[16时37分 ~ 17时41分]"
         },
         {
-          "title": "马斯克：爱泼斯坦的客户被抓多少了？是0诶",
-          "url": "https://news.ifeng.com/c/8qT0zrMPdnp",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 17时41分]"
-        },
-        {
           "title": "被传唤后，马斯克发声",
           "url": "https://news.ifeng.com/c/8qSniTMsaqs",
           "source": "凤凰网",
@@ -762,17 +774,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时49分 ~ 09时50分]"
-        },
-        {
-          "title": "曝马斯克团队“摸底”中国光伏产业链",
-          "url": "https://www.toutiao.com/trending/7602056837328371731/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
         },
         {
           "title": "马斯克被女儿爆料曾登爱泼斯坦岛",
@@ -825,7 +826,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -897,11 +898,12 @@
           "source": "微博",
           "ranks": [
             19,
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 17时41分]"
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 18时36分]"
         },
         {
           "title": "富达国际明星基金经理放话：金价再跌5%-7%将大举抄底",
@@ -921,7 +923,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
