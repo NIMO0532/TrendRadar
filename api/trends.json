@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T02:45:40.074291+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-02-07T03:37:16.023212+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
@@ -37,7 +37,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
         },
@@ -59,7 +59,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
         },
@@ -110,8 +110,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 03时37分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -121,8 +121,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 03时37分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -132,8 +132,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 03时37分]"
         },
         {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
@@ -143,8 +143,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 03时37分]"
         },
         {
           "title": "美国银行：从轻资产模式转向重资产模式意味着所谓美股科技七巨头的主导地位面临“重大威胁”。 今年大型科技公司在人工智能领域的资本开支预计约为6700亿美元，相当于其现金流的96%，而2023年这一比例仅为40%。 不再是拥有最佳资产负债表的公司，也不再是进行大规模股票回购的公司。",
@@ -165,7 +165,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
         }
@@ -183,8 +183,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 03时37分]"
         },
         {
           "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
