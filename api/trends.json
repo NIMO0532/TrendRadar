@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T14:52:04.764959+08:00",
-  "total_titles_processed": 1240,
+  "generated_at": "2026-02-06T15:44:55.669905+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 14时52分]"
+          "appearance_count": 7,
+          "time_info": "[09时50分 ~ 15时44分]"
         },
         {
           "title": "美股收盘：纳指连续三天均跌超1%",
@@ -51,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时25分 ~ 14时52分]"
+          "appearance_count": 8,
+          "time_info": "[07时25分 ~ 15时44分]"
         },
         {
           "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
@@ -310,8 +310,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时25分 ~ 14时52分]"
+          "appearance_count": 8,
+          "time_info": "[07时25分 ~ 15时44分]"
         },
         {
           "title": "马斯克：Spacex并没有开发手机产品。",
