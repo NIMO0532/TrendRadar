@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T19:20:45.322194+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2026-02-07T20:42:27.962877+08:00",
+  "total_titles_processed": 1410,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时22分 ~ 19时20分]"
+          "appearance_count": 13,
+          "time_info": "[07时22分 ~ 20时42分]"
         },
         {
           "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
@@ -37,11 +37,12 @@
             8,
             3,
             2,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时22分 ~ 19时20分]"
+          "appearance_count": 13,
+          "time_info": "[07时22分 ~ 20时42分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -65,11 +66,12 @@
             8,
             10,
             9,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时41分 ~ 19时20分]"
+          "appearance_count": 23,
+          "time_info": "[00时41分 ~ 20时42分]"
         },
         {
           "title": "逢低买盘撑美股大幅反弹，道指新高，英伟达大涨7%，金银V形反弹，比特币涨11%",
@@ -195,8 +197,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时48分 ~ 19时20分]"
+          "appearance_count": 11,
+          "time_info": "[09时48分 ~ 20时42分]"
         },
         {
           "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
@@ -337,6 +339,19 @@
           "time_info": "[00时41分 ~ 16时29分]"
         },
         {
+          "title": "特斯拉开展招聘并考虑建厂 以落实马斯克的太阳能战略",
+          "url": "https://flash.jin10.com/detail/20260207172525892800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 20时42分]"
+        },
+        {
           "title": "马斯克旗下SpaceX推迟火星计划，转而侧重于（探索）月球。 SpaceX计划2027年3月实施无人的（航天器）登月活动。 该公司将优先探月，试图之后再推进火星探索。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3051651",
           "source": "华尔街见闻-快讯",
@@ -348,18 +363,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时48分 ~ 13时40分]"
-        },
-        {
-          "title": "特斯拉开展招聘并考虑建厂 以落实马斯克的太阳能战略",
-          "url": "https://flash.jin10.com/detail/20260207172525892800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 19时20分]"
         },
         {
           "title": "拆解马斯克奥特曼互撕大战",
