@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T15:31:33.933050+08:00",
-  "total_titles_processed": 1089,
+  "generated_at": "2026-02-07T16:29:02.169741+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 15时31分]"
+          "appearance_count": 9,
+          "time_info": "[07时22分 ~ 16时29分]"
+        },
+        {
+          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
+          "url": "https://www.cls.cn/detail/2283586",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时22分 ~ 16时29分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -42,8 +55,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时41分 ~ 15时31分]"
+          "appearance_count": 19,
+          "time_info": "[00时41分 ~ 16时29分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -57,19 +70,6 @@
           "time_info": "[00时41分 ~ 03时37分]"
         },
         {
-          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
-          "url": "https://www.cls.cn/detail/2283586",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 15时31分]"
-        },
-        {
           "title": "逢低买盘撑美股大幅反弹，道指新高，英伟达大涨7%，金银V形反弹，比特币涨11%",
           "url": "https://wallstreetcn.com/articles/3765113",
           "source": "华尔街见闻",
@@ -81,6 +81,18 @@
           "time_info": "[04时31分 ~ 06时21分]"
         },
         {
+          "title": "美股成交额前20：英伟达结束五连跌",
+          "url": "https://www.toutiao.com/trending/7603404451794485302/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时31分 ~ 16时29分]"
+        },
+        {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
           "url": "https://www.cls.cn/detail/2282989",
           "source": "财联社热门",
@@ -90,17 +102,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时41分 ~ 03时37分]"
-        },
-        {
-          "title": "美股成交额前20：英伟达结束五连跌",
-          "url": "https://www.toutiao.com/trending/7603404451794485302/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时31分"
         },
         {
           "title": "（美股）费城金银指数收涨5.18%，报391.95点，本周累涨2.52%。 （全球时段）纽约证交所ARCA金矿开采商指数涨3.94%，报2764.85点，本周累涨0.76%。 （美股）原材料指数收涨3.62%，本周累涨4.82%。 （美股）金属与矿业指数收涨3.92%，本周累涨6.03%。",
@@ -181,6 +182,20 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
+          "url": "https://wallstreetcn.com/articles/3765171",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时48分 ~ 16时29分]"
+        },
+        {
           "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
           "url": "https://flash.jin10.com/detail/20260207040250896800",
           "source": "金十数据",
@@ -190,19 +205,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时31分 ~ 07时23分]"
-        },
-        {
-          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
-          "url": "https://wallstreetcn.com/articles/3765171",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 15时31分]"
         },
         {
           "title": "英伟达CEO黄仁勋：市场需求极为火爆。 大规模人工智能（AI）资本开支是适宜的、必要的。 建设AI（这个过程）还将持续好几年，预计将需要7-8年。 Anthropic和OpenAI都在赚钱。（CNBC）",
@@ -311,8 +313,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 15时31分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 16时29分]"
         },
         {
           "title": "马斯克：如果没有AI和机器人技术，美国必破产",
@@ -324,11 +326,12 @@
             13,
             12,
             11,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时41分 ~ 15时31分]"
+          "appearance_count": 19,
+          "time_info": "[00时41分 ~ 16时29分]"
         },
         {
           "title": "马斯克旗下SpaceX推迟火星计划，转而侧重于（探索）月球。 SpaceX计划2027年3月实施无人的（航天器）登月活动。 该公司将优先探月，试图之后再推进火星探索。（华尔街日报）",
