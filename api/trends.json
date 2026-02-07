@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T12:07:24.785111+08:00",
-  "total_titles_processed": 917,
+  "generated_at": "2026-02-07T13:40:33.424040+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 12时07分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 13时40分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -51,8 +51,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 12时07分]"
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 13时40分]"
         },
         {
           "title": "逢低买盘撑美股大幅反弹，道指新高，英伟达大涨7%，金银V形反弹，比特币涨11%",
@@ -66,6 +66,18 @@
           "time_info": "[04时31分 ~ 06时21分]"
         },
         {
+          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
+          "url": "https://www.cls.cn/detail/2283586",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 13时40分]"
+        },
+        {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
           "url": "https://www.cls.cn/detail/2282989",
           "source": "财联社热门",
@@ -75,18 +87,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时41分 ~ 03时37分]"
-        },
-        {
-          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
-          "url": "https://www.cls.cn/detail/2283586",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 12时07分]"
         },
         {
           "title": "（美股）费城金银指数收涨5.18%，报391.95点，本周累涨2.52%。 （全球时段）纽约证交所ARCA金矿开采商指数涨3.94%，报2764.85点，本周累涨0.76%。 （美股）原材料指数收涨3.62%，本周累涨4.82%。 （美股）金属与矿业指数收涨3.92%，本周累涨6.03%。",
@@ -197,8 +197,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 13时40分]"
         },
         {
           "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
@@ -296,8 +296,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 12时07分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 13时40分]"
         },
         {
           "title": "马斯克：如果没有AI和机器人技术，美国必破产",
@@ -306,11 +306,12 @@
           "ranks": [
             17,
             19,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 12时07分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 13时40分]"
         },
         {
           "title": "马斯克旗下SpaceX推迟火星计划，转而侧重于（探索）月球。 SpaceX计划2027年3月实施无人的（航天器）登月活动。 该公司将优先探月，试图之后再推进火星探索。（华尔街日报）",
@@ -318,11 +319,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 13时40分]"
         },
         {
           "title": "拆解马斯克奥特曼互撕大战",
