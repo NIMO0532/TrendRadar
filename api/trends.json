@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T21:43:08.207474+08:00",
-  "total_titles_processed": 1467,
+  "generated_at": "2026-02-07T22:24:50.372650+08:00",
+  "total_titles_processed": 1511,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时22分 ~ 21时43分]"
+          "appearance_count": 16,
+          "time_info": "[07时22分 ~ 22时24分]"
         },
         {
           "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时22分 ~ 21时43分]"
+          "appearance_count": 16,
+          "time_info": "[07时22分 ~ 22时24分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -70,8 +70,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时41分 ~ 21时43分]"
+          "appearance_count": 26,
+          "time_info": "[00时41分 ~ 22时24分]"
         },
         {
           "title": "逢低买盘撑美股大幅反弹，道指新高，英伟达大涨7%，金银V形反弹，比特币涨11%",
@@ -346,11 +346,12 @@
             7,
             10,
             17,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 21时43分]"
+          "appearance_count": 5,
+          "time_info": "[18时23分 ~ 22时24分]"
         },
         {
           "title": "马斯克旗下SpaceX推迟火星计划，转而侧重于（探索）月球。 SpaceX计划2027年3月实施无人的（航天器）登月活动。 该公司将优先探月，试图之后再推进火星探索。（华尔街日报）",
