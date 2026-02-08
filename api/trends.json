@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T13:02:04.308737+08:00",
-  "total_titles_processed": 716,
+  "generated_at": "2026-02-08T14:45:46.440891+08:00",
+  "total_titles_processed": 792,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 13时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 14时45分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -65,11 +65,12 @@
           "url": "https://www.zhihu.com/question/2003305831391785957",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 14时45分]"
         }
       ]
     },
@@ -83,11 +84,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 14时45分]"
         }
       ]
     }
