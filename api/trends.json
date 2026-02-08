@@ -1,37 +1,23 @@
 {
-  "generated_at": "2026-02-08T22:26:19.875475+08:00",
-  "total_titles_processed": 1287,
+  "generated_at": "2026-02-08T23:24:17.849621+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "秘密照片曝光！爱泼斯坦曾与马斯克、扎克伯格等共进晚餐(图)",
           "url": "https://news.ifeng.com/c/8qa3p0ihw5V",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时42分 ~ 22时26分]"
-        },
-        {
-          "title": "有网友称，SpaceX正在奥斯汀和西雅图招聘工程师，以开发人工智能卫星和太空数据中心。马斯克转发相关帖子并回复称：是真的。",
-          "url": "https://wallstreetcn.com/livenews/3051816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8,
-            11,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时24分 ~ 22时26分]"
+          "appearance_count": 6,
+          "time_info": "[20时42分 ~ 23时24分]"
         },
         {
           "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
@@ -40,11 +26,12 @@
           "ranks": [
             13,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时21分 ~ 22时26分]"
+          "appearance_count": 7,
+          "time_info": "[19时21分 ~ 23时24分]"
         },
         {
           "title": "爱泼斯坦与马斯克共进晚餐照片曝光",
@@ -56,8 +43,24 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时21分 ~ 23时24分]"
+        },
+        {
+          "title": "有网友称，SpaceX正在奥斯汀和西雅图招聘工程师，以开发人工智能卫星和太空数据中心。马斯克转发相关帖子并回复称：是真的。",
+          "url": "https://wallstreetcn.com/livenews/3051816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8,
+            11,
+            14,
+            16,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[19时21分 ~ 22时26分]"
+          "time_info": "[18时24分 ~ 23时24分]"
         },
         {
           "title": "马斯克发帖表示，是时候大规模重返月球了。",
@@ -68,11 +71,25 @@
             9,
             12,
             15,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时24分 ~ 22时26分]"
+          "appearance_count": 6,
+          "time_info": "[18时24分 ~ 23时24分]"
+        },
+        {
+          "title": "马斯克与爱泼斯坦共进晚餐照曝光",
+          "url": "https://www.toutiao.com/trending/7603356374260547634/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时42分 ~ 23时24分]"
         },
         {
           "title": "马斯克：是时候大规模重返月球了。",
@@ -114,78 +131,21 @@
           "time_info": "[10时14分 ~ 14时45分]"
         },
         {
-          "title": "马斯克与爱泼斯坦共进晚餐照曝光",
-          "url": "https://www.toutiao.com/trending/7603356374260547634/",
-          "source": "今日头条",
+          "title": "“长沙马斯克”新公司估值2个亿",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%95%BF%E6%B2%99%E9%A9%AC%E6%96%AF%E5%85%8B%E2%80%9D%E6%96%B0%E5%85%AC%E5%8F%B8%E4%BC%B0%E5%80%BC2%E4%B8%AA%E4%BA%BF",
+          "source": "百度热搜",
           "ranks": [
-            16,
-            13
+            29
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时42分 ~ 22时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
-          "url": "https://wallstreetcn.com/articles/3765113",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时24分]"
-        },
-        {
-          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
-          "url": "https://wallstreetcn.com/articles/3765246",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时37分 ~ 22时26分]"
-        },
-        {
-          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
-          "url": "https://www.cls.cn/detail/2283586",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时26分 ~ 22时26分]"
-        },
-        {
-          "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2283417",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "因金价飙升，意大利冬奥会金牌成史上最昂贵金牌，如何评价这一变化？",
@@ -216,6 +176,17 @@
           "time_info": "[06时24分 ~ 10时14分]"
         },
         {
+          "title": "金价巨震下买黄金的人怎么样了",
+          "url": "https://www.toutiao.com/trending/7604465515100114459/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "为什么最近黄金价格波动这么大",
           "url": "https://www.toutiao.com/trending/7604386572770741796/",
           "source": "今日头条",
@@ -225,6 +196,62 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时24分]"
+        },
+        {
+          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
+          "url": "https://wallstreetcn.com/articles/3765246",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[15时37分 ~ 23时24分]"
+        },
+        {
+          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
+          "url": "https://www.cls.cn/detail/2283586",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 27,
+          "time_info": "[00时26分 ~ 22时26分]"
+        },
+        {
+          "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2283417",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时24分]"
         }
       ]
     },
