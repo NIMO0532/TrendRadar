@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T14:45:46.440891+08:00",
-  "total_titles_processed": 792,
+  "generated_at": "2026-02-08T15:38:05.382856+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 14时45分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 15时38分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 06时24分]"
+        },
+        {
+          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
+          "url": "https://wallstreetcn.com/articles/3765246",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时37分 ~ 15时38分]"
         }
       ]
     },
@@ -47,6 +58,19 @@
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
+        {
+          "title": "因金价飙升，意大利冬奥会金牌成史上最昂贵金牌，如何评价这一变化？",
+          "url": "https://www.zhihu.com/question/2003305831391785957",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 15时38分]"
+        },
         {
           "title": "黄金——资产再配置，金价走向何方？",
           "url": "https://wallstreetcn.com/articles/3765213",
@@ -59,18 +83,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时24分 ~ 10时14分]"
-        },
-        {
-          "title": "因金价飙升，意大利冬奥会金牌成史上最昂贵金牌，如何评价这一变化？",
-          "url": "https://www.zhihu.com/question/2003305831391785957",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 14时45分]"
         }
       ]
     },
