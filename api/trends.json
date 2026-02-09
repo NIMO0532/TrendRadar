@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T12:31:23.426944+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2026-02-09T14:06:53.535195+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "秘密照片曝光！爱泼斯坦曾与马斯克、扎克伯格等共进晚餐(图)",
@@ -110,6 +110,70 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时28分 ~ 07时29分]"
+        },
+        {
+          "title": "马斯克：今年NASA（合同）仅占SpaceX收入的约5%。SpaceX收入的绝大部分来自商业星链系统。",
+          "url": "https://flash.jin10.com/detail/20260209134342367800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "马斯克携SpaceX剑指“外星造城”：月球10年内完工，火星需要20年！",
+          "url": "https://www.cls.cn/detail/2284254",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价巨震下买黄金的人怎么样了",
+          "url": "https://www.toutiao.com/trending/7604465515100114459/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            28,
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时32分 ~ 07时29分]"
+        },
+        {
+          "title": "美元走软及抄底买盘推动金价回升至5000美元上方",
+          "url": "https://flash.jin10.com/detail/20260209134001817800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "金十图示：2026年02月09日（周一）上海金早盘价为1117.68元/克，较国际金价(1117.33元/克)，高0.35元/克",
+          "url": "https://flash.jin10.com/detail/20260209110142108800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     },
@@ -155,37 +219,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价巨震下买黄金的人怎么样了",
-          "url": "https://www.toutiao.com/trending/7604465515100114459/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            28,
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时32分 ~ 07时29分]"
-        },
-        {
-          "title": "金十图示：2026年02月09日（周一）上海金早盘价为1117.68元/克，较国际金价(1117.33元/克)，高0.35元/克",
-          "url": "https://flash.jin10.com/detail/20260209110142108800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
         }
       ]
     }
