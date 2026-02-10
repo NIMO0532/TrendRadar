@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T19:53:41.846266+08:00",
-  "total_titles_processed": 1490,
+  "generated_at": "2026-02-10T21:07:31.199665+08:00",
+  "total_titles_processed": 1603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时08分 ~ 19时53分]"
+          "appearance_count": 10,
+          "time_info": "[10时08分 ~ 21时07分]"
         },
         {
           "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
@@ -66,6 +66,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "标普全球美股盘前一度下跌18%。",
+          "url": "https://wallstreetcn.com/livenews/3053058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "金十图示：2026年02月09日（周一）热门中概股行情一览（美股盘中）",
@@ -175,6 +186,39 @@
           "time_info": "[05时38分 ~ 06时34分]"
         },
         {
+          "title": "美银警告美股原材料板块出现泡沫化价格波动",
+          "url": "https://flash.jin10.com/detail/20260210204541121800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
+          "title": "美股AI应用软件股盘前涨幅扩大，Spotify、Datadog绩后大涨超10%，Shopify涨近5%，Unity涨超4%，Applovin、Snowflake涨近4%，Palantir涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3053047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
+          "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2286272",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "亚洲股市周二有望再度走高 追随美股科技股反弹势头",
           "url": "https://flash.jin10.com/detail/20260210065424099800",
           "source": "金十数据",
@@ -214,9 +258,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
+        },
+        {
+          "title": "可口可乐第四季度净营收118亿美元，市场预估120.3亿美元。 第四季度可比每股收益0.58美元，市场预估0.57美元。 预计2026年资本支出22亿美元，市场预估23.1亿美元。 可口可乐美股盘前一度跌超2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3053030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "高盛称对冲基金创纪录增持美股空头头寸，信息技术板块成抛售重灾区",
@@ -285,8 +340,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时50分 ~ 19时53分]"
+          "appearance_count": 18,
+          "time_info": "[01时50分 ~ 21时07分]"
         },
         {
           "title": "马斯克弟弟回应爱泼斯坦案",
@@ -296,8 +351,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时02分 ~ 19时53分]"
+          "appearance_count": 9,
+          "time_info": "[13时02分 ~ 21时07分]"
         },
         {
           "title": "马斯克：暂时搁置火星计划，重点转向建造月球城市",
@@ -384,11 +439,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时58分 ~ 19时53分]"
+          "appearance_count": 3,
+          "time_info": "[18时58分 ~ 21时07分]"
         },
         {
           "title": "法巴银行：金价年内有望涨至6000美元 涨势合乎逻辑",
