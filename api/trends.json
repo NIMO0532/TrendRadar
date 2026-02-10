@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-10T15:02:04.597472+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2026-02-10T16:04:02.049614+08:00",
+  "total_titles_processed": 1157,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 18,
       "titles": [
+        {
+          "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时08分 ~ 16时04分]"
+        },
         {
           "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2285010",
@@ -19,17 +30,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时50分 ~ 10时08分]"
-        },
-        {
-          "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
-          "url": "https://wallstreetcn.com/articles/3765262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时08分 ~ 15时02分]"
         },
         {
           "title": "美股收盘：三大指数集体上涨 道指再创新高 纳指涨近1%",
@@ -244,11 +244,12 @@
             10,
             11,
             21,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时50分 ~ 15时02分]"
+          "appearance_count": 14,
+          "time_info": "[01时50分 ~ 16时04分]"
         },
         {
           "title": "马斯克：暂时搁置火星计划，重点转向建造月球城市",
@@ -262,6 +263,17 @@
           "time_info": "10时08分"
         },
         {
+          "title": "马斯克弟弟回应爱泼斯坦案",
+          "url": "https://news.ifeng.com/c/8qcvnadYDOT",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时02分 ~ 16时04分]"
+        },
+        {
           "title": "马斯克：SpaceX将建立一个允许任何人前往月球和火星的系统。",
           "url": "https://flash.jin10.com/detail/20260210050420895800",
           "source": "金十数据",
@@ -272,17 +284,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 06时34分]"
-        },
-        {
-          "title": "马斯克弟弟回应爱泼斯坦案",
-          "url": "https://news.ifeng.com/c/8qcvnadYDOT",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 15时02分]"
         }
       ]
     },
@@ -350,6 +351,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年02月10日（周二）上海金午盘价为1118.1元/克，较国际金价(1115.18元/克)，高2.92元/克",
+          "url": "https://flash.jin10.com/detail/20260210150158914800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
         }
       ]
     }
