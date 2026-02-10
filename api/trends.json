@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T03:20:29.307491+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-02-11T04:41:59.617004+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 04时41分]"
         },
         {
           "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 04时41分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -39,8 +39,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 04时41分]"
         },
         {
           "title": "金十图示：2026年02月10日（周二）美股热门股票行情一览（美股盘中）",
@@ -90,8 +90,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 04时41分]"
         },
         {
           "title": "美国国会议员们质询国防部使用马斯克旗下xAI开发的大模型Grok一事。",
@@ -99,11 +99,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时00分 ~ 04时41分]"
         }
       ]
     },
@@ -119,8 +120,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 04时41分]"
         }
       ]
     }
