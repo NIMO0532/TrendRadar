@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-10T16:04:02.049614+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-02-10T17:59:34.402028+08:00",
+  "total_titles_processed": 1303,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
           "url": "https://wallstreetcn.com/articles/3765262",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时08分 ~ 16时04分]"
+          "appearance_count": 7,
+          "time_info": "[10时08分 ~ 17时59分]"
         },
         {
           "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
@@ -65,6 +66,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "美股光通信股盘前延续涨势，Credo Technology大涨超17%，Astera Labs盘前续涨超5%，康宁涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3052937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "金十图示：2026年02月09日（周一）热门中概股行情一览（美股盘中）",
@@ -184,6 +196,17 @@
           "time_info": "10时08分"
         },
         {
+          "title": "台积电美股盘前涨2.5%。台积电1月销售额同比增长36.8%。",
+          "url": "https://wallstreetcn.com/livenews/3052910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
           "title": "高盛称对冲基金创纪录增持美股空头头寸，信息技术板块成抛售重灾区",
           "url": "https://wallstreetcn.com/livenews/3052438",
           "source": "华尔街见闻-快讯",
@@ -245,11 +268,23 @@
             11,
             21,
             22,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时50分 ~ 16时04分]"
+          "appearance_count": 15,
+          "time_info": "[01时50分 ~ 17时59分]"
+        },
+        {
+          "title": "马斯克弟弟回应爱泼斯坦案",
+          "url": "https://news.ifeng.com/c/8qcvnadYDOT",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时02分 ~ 17时59分]"
         },
         {
           "title": "马斯克：暂时搁置火星计划，重点转向建造月球城市",
@@ -261,17 +296,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
-        },
-        {
-          "title": "马斯克弟弟回应爱泼斯坦案",
-          "url": "https://news.ifeng.com/c/8qcvnadYDOT",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时02分 ~ 16时04分]"
         },
         {
           "title": "马斯克：SpaceX将建立一个允许任何人前往月球和火星的系统。",
@@ -338,6 +362,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "法巴银行：金价年内有望涨至6000美元 涨势合乎逻辑",
+          "url": "https://flash.jin10.com/detail/20260210173001721800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "金十图示：2026年02月10日（周二）上海金午盘价为1118.1元/克，较国际金价(1115.18元/克)，高2.92元/克",
+          "url": "https://flash.jin10.com/detail/20260210150158914800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "越南",
       "match_count": 1,
       "titles": [
@@ -351,23 +403,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年02月10日（周二）上海金午盘价为1118.1元/克，较国际金价(1115.18元/克)，高2.92元/克",
-          "url": "https://flash.jin10.com/detail/20260210150158914800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时04分"
         }
       ]
     }
