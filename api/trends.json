@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T18:43:10.231671+08:00",
-  "total_titles_processed": 1506,
+  "generated_at": "2026-02-12T19:38:56.896057+08:00",
+  "total_titles_processed": 1605,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时29分 ~ 18时43分]"
+          "appearance_count": 11,
+          "time_info": "[07时29分 ~ 19时38分]"
         },
         {
           "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
@@ -130,11 +130,12 @@
           "url": "https://wallstreetcn.com/articles/3765553",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 18时43分]"
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 19时38分]"
         },
         {
           "title": "周三（2月11日）美股尾盘，彭博电动汽车价格回报指数涨1.32%，报3662.78点。 北京时间09:25出现一波快速上涨行情，10:15过后持续高位震荡。 成分股智利化工矿业公司（SQM）涨7.1%，美国雅宝涨4.3%，小米集团H股收涨4.27%，意法半导体欧股收涨2.92%，禾赛科技则跌6.2%，Lucid集团跌8.3%。",
@@ -218,7 +219,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "Seedance 2.0征服海外！马斯克感慨发展太快 美国导演称或会颠覆好莱坞",
@@ -230,8 +231,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时50分 ~ 18时43分]"
+          "appearance_count": 6,
+          "time_info": "[15时50分 ~ 19时38分]"
         },
         {
           "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
@@ -289,6 +290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
+        },
+        {
+          "title": "“发展速度太快了”！马斯克点赞Seedance 2.0，字节称“还远不完美”",
+          "url": "https://wallstreetcn.com/articles/3765571",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         },
         {
           "title": "马斯克在周二深夜主持xAI全体员工会议。 马斯克讨论了该公司的重组事宜，但并非透露具体信息。（Business Insider）",
