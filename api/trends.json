@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T22:01:53.376982+08:00",
-  "total_titles_processed": 1886,
+  "generated_at": "2026-02-13T22:54:30.821048+08:00",
+  "total_titles_processed": 1977,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 41,
+      "match_count": 46,
       "titles": [
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时00分 ~ 22时01分]"
+          "appearance_count": 16,
+          "time_info": "[10时00分 ~ 22时54分]"
         },
         {
           "title": "【早报】深夜跳水！美股、黄金、白银、原油集体大跌；央行今日出手，万亿逆回购来了",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时58分 ~ 22时01分]"
+          "appearance_count": 12,
+          "time_info": "[13时58分 ~ 22时54分]"
         },
         {
           "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
@@ -76,8 +76,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时26分 ~ 22时01分]"
+          "appearance_count": 14,
+          "time_info": "[12时26分 ~ 22时54分]"
         },
         {
           "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
@@ -89,8 +89,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时03分 ~ 22时01分]"
+          "appearance_count": 11,
+          "time_info": "[15时03分 ~ 22时54分]"
         },
         {
           "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
@@ -120,6 +120,17 @@
           "time_info": "[00时56分 ~ 10时01分]"
         },
         {
+          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
+          "url": "https://www.zhihu.com/question/2005568531748648323",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时39分 ~ 22时54分]"
+        },
+        {
           "title": "CPI前夕美股高开低走，盘中标普纳指跌超1%、思科跌超10%，白银跳水超7%",
           "url": "https://wallstreetcn.com/articles/3765553",
           "source": "华尔街见闻",
@@ -129,28 +140,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时56分 ~ 03时01分]"
-        },
-        {
-          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
-          "url": "https://www.zhihu.com/question/2005568531748648323",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时39分 ~ 22时01分]"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3055230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时01分"
         },
         {
           "title": "美国CPI前夕，美股指盘中转跌，盘中纳指跌超1%、思科跌超10%",
@@ -195,6 +184,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
+        },
+        {
+          "title": "金十图示：2026年02月13日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260213223705054800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3055230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时54分]"
         },
         {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股收盘）",
@@ -255,6 +267,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时30分 ~ 07时26分]"
+        },
+        {
+          "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2289929",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时54分]"
+        },
+        {
+          "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
+          "url": "https://wallstreetcn.com/articles/3765660",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时54分]"
         },
         {
           "title": "Moderna第四季度营收6.78亿美元，同比下降30%，市场预期6.251亿美元。 第四季度每股亏损2.11美元，去年同期每股亏损2.91美元。 预计全年营收同比增长最高可达10%。 预计全年资本支出为2亿至3亿美元，市场预期为2.653亿美元。 Moderna美股盘前跌幅收窄至0.5%。",
@@ -340,37 +376,37 @@
           "time_info": "[12时26分 ~ 12时27分]"
         },
         {
-          "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2289929",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时01分"
-        },
-        {
           "title": "美国CPI数据公布后，美股期货短线拉升",
           "url": "https://wallstreetcn.com/livenews/3055223",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         },
         {
-          "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
-          "url": "https://wallstreetcn.com/articles/3765660",
-          "source": "华尔街见闻",
+          "title": "美股开盘，道指跌0.03%，标普500指数跌0.01%，纳指跌0.12%。Rivian(RIVN.O)大涨27%，公司预计2026年交付量将激增53%。部分中概股走低，阿里巴巴(BABA.N)跌3.6%，蔚来汽车(NIO.N)跌1.46%，百度(BIDU.O)跌4.5%。",
+          "url": "https://flash.jin10.com/detail/20260213223027809800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时01分"
+          "time_info": "22时54分"
+        },
+        {
+          "title": "医疗业ETF涨1.27%，生物科技指数ETF涨1.20%，在美股行业盘初领跑，半导体ETF涨0.63%，网络股指数ETF涨0.49%，科技行业ETF涨0.26%，全球科技股指数ETF跌0.11%，银行业ETF跌0.25%。",
+          "url": "https://wallstreetcn.com/livenews/3055251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股盘中）",
@@ -390,7 +426,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         },
@@ -472,6 +508,17 @@
           "time_info": "00时56分"
         },
         {
+          "title": "美股存储芯片概念股盘前下跌，Sandisk跌超3%、美光科技跌超2%、西部数据涨跌超2%、希捷科技跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3055237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "美股黄金大跌原因",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E9%BB%84%E9%87%91%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -481,6 +528,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "百度美股盘前跌超4%。 蔚来美股盘前跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3055232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         }
       ]
     },
@@ -696,7 +754,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "“发展速度太快了”！马斯克点赞Seedance 2.0，字节称“还远不完美”",
@@ -710,6 +768,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时56分 ~ 13时58分]"
+        },
+        {
+          "title": "马斯克的银行家门讨论xAI（被SpaceX）合并之后的债务处置问题。",
+          "url": "https://wallstreetcn.com/livenews/3055261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         }
       ]
     }
