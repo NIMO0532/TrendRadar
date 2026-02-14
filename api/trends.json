@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T21:43:00.116727+08:00",
-  "total_titles_processed": 1531,
+  "generated_at": "2026-02-14T22:25:10.413524+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时49分 ~ 21时43分]"
+          "appearance_count": 16,
+          "time_info": "[09时49分 ~ 22时25分]"
         },
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
@@ -128,8 +128,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时28分 ~ 21时43分]"
+          "appearance_count": 9,
+          "time_info": "[17时28分 ~ 22时25分]"
         },
         {
           "title": "美股：金银大涨 英伟达蒸发6900亿元",
@@ -276,8 +276,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时43分 ~ 21时43分]"
+          "appearance_count": 14,
+          "time_info": "[13时43分 ~ 22时25分]"
         },
         {
           "title": "OpenAI：已停止使用五款旧版ChatGPT模型",
@@ -325,11 +325,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 21时43分]"
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 22时25分]"
         },
         {
           "title": "OpenAI总裁布罗克曼：我们现在正将我们的模型应用于前沿领域的研究当中。在10个数学研究难题中（这些难题是数学研究者已经解决但从未公布解决方案的难题），在一周内，我们的模型发现了至少6个问题的可能正确解决方案。",
@@ -448,8 +449,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时41分 ~ 21时43分]"
+          "appearance_count": 5,
+          "time_info": "[20时41分 ~ 22时25分]"
         },
         {
           "title": "金价本周涨超2%",
