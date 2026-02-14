@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T03:22:31.417707+08:00",
-  "total_titles_processed": 365,
+  "generated_at": "2026-02-15T04:23:38.417327+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时23分]"
         },
         {
           "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
@@ -27,8 +27,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时23分]"
         }
       ]
     },
@@ -46,8 +46,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时23分]"
         },
         {
           "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
@@ -58,8 +58,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时23分]"
         }
       ]
     },
@@ -75,11 +75,29 @@
             17,
             10,
             15,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "3名华人联合创始人接连出走，马斯克的xAI发生了什么",
+          "url": "https://news.ifeng.com/c/8qk233NwWb6",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         }
       ]
     }
