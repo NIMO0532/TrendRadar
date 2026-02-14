@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T06:21:00.126529+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-02-15T07:22:11.785753+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时22分]"
         },
         {
           "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
@@ -27,8 +27,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时22分]"
         }
       ]
     },
@@ -43,11 +43,12 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时22分]"
         },
         {
           "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
@@ -58,8 +59,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时22分]"
         }
       ]
     },
@@ -80,8 +81,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时22分]"
         }
       ]
     },
@@ -97,8 +98,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时23分 ~ 06时21分]"
+          "appearance_count": 7,
+          "time_info": "[04时23分 ~ 07时22分]"
         }
       ]
     }
