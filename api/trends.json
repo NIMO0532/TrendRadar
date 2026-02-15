@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T12:27:02.780230+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2026-02-15T13:55:35.208642+08:00",
+  "total_titles_processed": 792,
   "failed_sources": [],
   "trends": [
     {
@@ -24,22 +24,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 13时55分]"
         },
         {
           "title": "马斯克：特斯拉FSD将停止一次性付费服务，转为订阅制",
           "url": "https://flash.jin10.com/detail/20260215112402089800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时55分]"
         },
         {
           "title": "马斯克：擎天柱机器人从明年开始将改变人类生活",
@@ -70,7 +72,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         }
@@ -145,8 +147,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 12时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 13时55分]"
         }
       ]
     },
