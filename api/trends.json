@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T09:59:57.384014+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-02-15T12:27:02.780230+08:00",
+  "total_titles_processed": 710,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "3名华人联合创始人接连出走，马斯克的xAI发生了什么",
@@ -15,19 +15,31 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时23分 ~ 09时59分]"
+          "appearance_count": 10,
+          "time_info": "[04时23分 ~ 12时27分]"
         },
         {
           "title": "马斯克称擎天柱机器人将从明年开始改变人类生活",
           "url": "https://wallstreetcn.com/livenews/3055580",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 12时27分]"
+        },
+        {
+          "title": "马斯克：特斯拉FSD将停止一次性付费服务，转为订阅制",
+          "url": "https://flash.jin10.com/detail/20260215112402089800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "12时27分"
         },
         {
           "title": "马斯克：擎天柱机器人从明年开始将改变人类生活",
@@ -36,7 +48,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -47,9 +59,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "马斯克：仍将推进火星计划",
+          "url": "https://flash.jin10.com/detail/20260215100423003800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         }
       ]
     },
@@ -87,7 +110,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         }
@@ -118,11 +141,12 @@
           "ranks": [
             8,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 09时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 12时27分]"
         }
       ]
     },
