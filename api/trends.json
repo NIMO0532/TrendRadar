@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T17:29:58.323745+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2026-02-15T18:24:28.721876+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,40 @@
             13,
             16,
             18,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时59分 ~ 18时24分]"
+        },
+        {
+          "title": "马斯克：就我所能想象的未来而言，特斯拉(TSLA.O)将拥有规模最大的自动驾驶汽车车队。",
+          "url": "https://flash.jin10.com/detail/20260215144532247800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13,
+            17,
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时59分 ~ 17时29分]"
+          "appearance_count": 4,
+          "time_info": "[15时37分 ~ 18时24分]"
+        },
+        {
+          "title": "马斯克：Grok 4.20版本将于下周发布。相较于4.1版本，此次更新将带来显著改进。",
+          "url": "https://flash.jin10.com/detail/20260215144003417800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            14,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时37分 ~ 18时24分]"
         },
         {
           "title": "马斯克预言：2026年底编程或将全面自动化",
@@ -48,32 +77,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时48分 ~ 17时29分]"
-        },
-        {
-          "title": "马斯克：就我所能想象的未来而言，特斯拉(TSLA.O)将拥有规模最大的自动驾驶汽车车队。",
-          "url": "https://flash.jin10.com/detail/20260215144532247800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时37分 ~ 17时29分]"
-        },
-        {
-          "title": "马斯克：Grok 4.20版本将于下周发布。相较于4.1版本，此次更新将带来显著改进。",
-          "url": "https://flash.jin10.com/detail/20260215144003417800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时37分 ~ 17时29分]"
         },
         {
           "title": "马斯克：特斯拉FSD将停止一次性付费服务，转为订阅制",
@@ -189,11 +192,12 @@
             8,
             7,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时26分 ~ 17时29分]"
+          "appearance_count": 22,
+          "time_info": "[00时26分 ~ 18时24分]"
         }
       ]
     },
