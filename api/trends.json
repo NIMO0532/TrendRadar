@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T18:24:28.721876+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-02-15T19:21:03.053495+08:00",
+  "total_titles_processed": 1096,
   "failed_sources": [],
   "trends": [
     {
@@ -44,11 +44,12 @@
             6,
             13,
             17,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时37分 ~ 18时24分]"
+          "appearance_count": 5,
+          "time_info": "[15时37分 ~ 19时21分]"
         },
         {
           "title": "马斯克：Grok 4.20版本将于下周发布。相较于4.1版本，此次更新将带来显著改进。",
@@ -58,11 +59,12 @@
             7,
             14,
             18,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时37分 ~ 18时24分]"
+          "appearance_count": 5,
+          "time_info": "[15时37分 ~ 19时21分]"
         },
         {
           "title": "马斯克预言：2026年底编程或将全面自动化",
@@ -193,11 +195,12 @@
             7,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时26分 ~ 18时24分]"
+          "appearance_count": 24,
+          "time_info": "[00时26分 ~ 19时21分]"
         }
       ]
     },
