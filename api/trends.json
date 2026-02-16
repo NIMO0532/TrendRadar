@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T01:36:36.669974+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-02-17T02:39:34.512581+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时39分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -69,11 +69,12 @@
           "url": "https://www.cls.cn/detail/2290650",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时39分]"
         }
       ]
     }
