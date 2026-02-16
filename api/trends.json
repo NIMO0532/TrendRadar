@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-02-16T19:39:20.178874+08:00",
-  "total_titles_processed": 1233,
+  "generated_at": "2026-02-16T20:57:41.087882+08:00",
+  "total_titles_processed": 1341,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 8,
       "titles": [
+        {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时24分 ~ 20时57分]"
+        },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
           "url": "https://wallstreetcn.com/articles/3765755",
@@ -20,21 +35,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时27分 ~ 14时05分]"
-        },
-        {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时24分 ~ 19时39分]"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
@@ -125,8 +125,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时24分 ~ 19时39分]"
+          "appearance_count": 11,
+          "time_info": "[07时24分 ~ 20时57分]"
+        },
+        {
+          "title": "马斯克：星链“很快”将在地球之外运行",
+          "url": "https://wallstreetcn.com/livenews/3055727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 20时57分]"
         },
         {
           "title": "马斯克：星链服务太棒了。无论在地球何处，都能提供超高带宽和超低延迟。而且很快它就能不仅局限于地球。",
@@ -139,17 +151,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时43分 ~ 17时52分]"
-        },
-        {
-          "title": "马斯克：星链“很快”将在地球之外运行",
-          "url": "https://wallstreetcn.com/livenews/3055727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
         },
         {
           "title": "马斯克：我的“净资产”几乎完全来自我在特斯拉和SpaceX的股份",
@@ -191,8 +192,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时53分 ~ 19时39分]"
+          "appearance_count": 6,
+          "time_info": "[15时53分 ~ 20时57分]"
         }
       ]
     },
