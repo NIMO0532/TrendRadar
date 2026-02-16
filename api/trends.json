@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T20:57:41.087882+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2026-02-16T22:06:36.997958+08:00",
+  "total_titles_processed": 1440,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时24分 ~ 20时57分]"
+          "appearance_count": 10,
+          "time_info": "[12时24分 ~ 22时06分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -125,8 +125,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时24分 ~ 20时57分]"
+          "appearance_count": 12,
+          "time_info": "[07时24分 ~ 22时06分]"
         },
         {
           "title": "马斯克：星链“很快”将在地球之外运行",
