@@ -1,8 +1,102 @@
 {
-  "generated_at": "2026-02-17T15:51:56.259174+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2026-02-17T16:42:39.200561+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "马斯克",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
+          "url": "https://www.cls.cn/detail/2290650",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 16时42分]"
+        },
+        {
+          "title": "报道：马斯克旗下SpaceX将竞标美国五角大楼的无人机技术承包合同",
+          "url": "https://wallstreetcn.com/livenews/3055823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时31分 ~ 07时27分]"
+        },
+        {
+          "title": "爱尔兰监管机构对马斯克旗下社交媒体平台X展开调查",
+          "url": "https://wallstreetcn.com/livenews/3055869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 14时57分]"
+        },
+        {
+          "title": "马斯克：Cybercab将于4月开始生产，没有踏板、方向盘",
+          "url": "https://wallstreetcn.com/livenews/3055872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时18分 ~ 14时57分]"
+        },
+        {
+          "title": "爱尔兰监管机构对马斯克旗下社交媒体平台X展开调查",
+          "url": "https://flash.jin10.com/detail/20260217091405072800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "外媒：马斯克今年有近8成概率成为全球首个万亿富翁",
+          "url": "https://flash.jin10.com/detail/20260217111741762800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "马斯克母亲发视频拜年",
+          "url": "https://www.toutiao.com/trending/7607606769153589275/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 6,
@@ -85,88 +179,6 @@
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
-          "url": "https://www.cls.cn/detail/2290650",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时39分 ~ 15时51分]"
-        },
-        {
-          "title": "报道：马斯克旗下SpaceX将竞标美国五角大楼的无人机技术承包合同",
-          "url": "https://wallstreetcn.com/livenews/3055823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时31分 ~ 07时27分]"
-        },
-        {
-          "title": "爱尔兰监管机构对马斯克旗下社交媒体平台X展开调查",
-          "url": "https://wallstreetcn.com/livenews/3055869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 14时57分]"
-        },
-        {
-          "title": "马斯克：Cybercab将于4月开始生产，没有踏板、方向盘",
-          "url": "https://wallstreetcn.com/livenews/3055872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 14时57分]"
-        },
-        {
-          "title": "爱尔兰监管机构对马斯克旗下社交媒体平台X展开调查",
-          "url": "https://flash.jin10.com/detail/20260217091405072800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "外媒：马斯克今年有近8成概率成为全球首个万亿富翁",
-          "url": "https://flash.jin10.com/detail/20260217111741762800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
@@ -176,11 +188,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 15时51分]"
+          "appearance_count": 7,
+          "time_info": "[09时53分 ~ 16时42分]"
         },
         {
           "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
