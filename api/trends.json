@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T20:54:07.734012+08:00",
-  "total_titles_processed": 1605,
+  "generated_at": "2026-02-20T22:00:55.399627+08:00",
+  "total_titles_processed": 1726,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时29分 ~ 20时54分]"
+          "appearance_count": 18,
+          "time_info": "[06时29分 ~ 22时00分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时14分 ~ 20时54分]"
+          "appearance_count": 15,
+          "time_info": "[12时14分 ~ 22时00分]"
         },
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
@@ -59,6 +59,19 @@
           "time_info": "[00时49分 ~ 12时14分]"
         },
         {
+          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
+          "url": "https://wallstreetcn.com/articles/3765893",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时37分 ~ 22时00分]"
+        },
+        {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291551",
           "source": "财联社热门",
@@ -68,8 +81,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时49分 ~ 20时54分]"
+          "appearance_count": 25,
+          "time_info": "[00时49分 ~ 22时00分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -81,8 +94,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时49分 ~ 20时54分]"
+          "appearance_count": 25,
+          "time_info": "[00时49分 ~ 22时00分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -107,19 +120,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时49分 ~ 06时29分]"
-        },
-        {
-          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
-          "url": "https://wallstreetcn.com/articles/3765893",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时37分 ~ 20时54分]"
         },
         {
           "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
@@ -166,6 +166,17 @@
           "time_info": "05时30分"
         },
         {
+          "title": "美国PCE等数据公布后，美股期货短线走低， 纳指期货日内跌0.33%，标普500指数期货跌0.24%，道指期货跌0.18%。美国国债持稳，美元指数走低至日内低点。",
+          "url": "https://wallstreetcn.com/livenews/3056963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
           "title": "美股大类资产类ETF涨跌各异，布油基金涨超2.2%",
           "url": "https://wallstreetcn.com/livenews/3056806",
           "source": "华尔街见闻-快讯",
@@ -192,6 +203,18 @@
           "time_info": "[17时38分 ~ 20时54分]"
         },
         {
+          "title": "静候“美联储最爱通胀指标”，美股期货转跌，黄金站上5040美元，白银突破81美元",
+          "url": "https://wallstreetcn.com/articles/3765902",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时53分 ~ 22时00分]"
+        },
+        {
           "title": "AppLovin美股盘后涨6.6%。",
           "url": "https://wallstreetcn.com/livenews/3056801",
           "source": "华尔街见闻-快讯",
@@ -202,17 +225,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时28分]"
-        },
-        {
-          "title": "静候“美联储最爱通胀指标”，美股期货转跌，黄金站上5040美元，白银突破81美元",
-          "url": "https://wallstreetcn.com/articles/3765902",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 20时54分]"
         },
         {
           "title": "周四（2月19日）纽约尾盘，现货黄金涨0.42%，报4998.50美元/盎司。 COMEX黄金期货涨0.09%，报5014美元/盎司。 现货白银涨1.32%，报78.2375美元/盎司。 COMEX白银期货涨0.82%。 COMEX铜期货跌0.67%，报5.8240美元/磅。 现货铂金跌0.32%，现货钯金跌1.45%。 （美股）费城金银指数收涨1.51%，报422.69点。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.26%，报2982.07点。 （美股）原材料指数收跌0.09%，金属与矿业指数收跌0.17%。",
@@ -252,7 +264,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -312,7 +324,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         }
@@ -381,8 +393,19 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "清华学霸俞浩放言要超越马斯克、黄仁勋，并批评马斯克「PUA」，如何评价其言论与商业目标？",
+          "url": "https://www.zhihu.com/question/2005421279541483469",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时00分]"
+        },
         {
           "title": "微软(MSFT.O) CEO发文称，很高兴能将Grok 4.1 Fast添加到我们的多模型产品系列中。马斯克随后转发了该贴并表示，Grok4.20版本即将发布。",
           "url": "https://flash.jin10.com/detail/20260220144504457800",
