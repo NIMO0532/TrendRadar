@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T22:00:55.399627+08:00",
-  "total_titles_processed": 1726,
+  "generated_at": "2026-02-20T22:47:46.321762+08:00",
+  "total_titles_processed": 1780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[06时29分 ~ 22时00分]"
+          "appearance_count": 19,
+          "time_info": "[06时29分 ~ 22时47分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时14分 ~ 22时00分]"
+          "appearance_count": 16,
+          "time_info": "[12时14分 ~ 22时47分]"
         },
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
@@ -65,11 +65,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时37分 ~ 22时00分]"
+          "appearance_count": 11,
+          "time_info": "[16时37分 ~ 22时47分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -81,8 +82,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时49分 ~ 22时00分]"
+          "appearance_count": 26,
+          "time_info": "[00时49分 ~ 22时47分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -94,8 +95,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时49分 ~ 22时00分]"
+          "appearance_count": 26,
+          "time_info": "[00时49分 ~ 22时47分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -133,6 +134,17 @@
           "time_info": "05时30分"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3056969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
           "title": "金十图示：2026年02月19日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260220050543287800",
           "source": "金十数据",
@@ -142,6 +154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-02-20）",
+          "url": "https://flash.jin10.com/detail/20260220221858847800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "美股三大股指均收跌",
@@ -166,15 +189,17 @@
           "time_info": "05时30分"
         },
         {
-          "title": "美国PCE等数据公布后，美股期货短线走低， 纳指期货日内跌0.33%，标普500指数期货跌0.24%，道指期货跌0.18%。美国国债持稳，美元指数走低至日内低点。",
-          "url": "https://wallstreetcn.com/livenews/3056963",
-          "source": "华尔街见闻-快讯",
+          "title": "静候“美联储最爱通胀指标”，美股期货转跌，黄金站上5040美元，白银突破81美元",
+          "url": "https://wallstreetcn.com/articles/3765902",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            10,
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时00分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时53分 ~ 22时47分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，布油基金涨超2.2%",
@@ -189,6 +214,18 @@
           "time_info": "[06时29分 ~ 07时28分]"
         },
         {
+          "title": "美国PCE等数据公布后，美股期货短线走低， 纳指期货日内跌0.33%，标普500指数期货跌0.24%，道指期货跌0.18%。美国国债持稳，美元指数走低至日内低点。",
+          "url": "https://wallstreetcn.com/livenews/3056963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时00分 ~ 22时47分]"
+        },
+        {
           "title": "谷歌美股盘前涨超1%，此前发布Gemini 3.1 Pro，核心推理性能直接翻倍。",
           "url": "https://wallstreetcn.com/livenews/3056911",
           "source": "华尔街见闻-快讯",
@@ -201,18 +238,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时38分 ~ 20时54分]"
-        },
-        {
-          "title": "静候“美联储最爱通胀指标”，美股期货转跌，黄金站上5040美元，白银突破81美元",
-          "url": "https://wallstreetcn.com/articles/3765902",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时53分 ~ 22时00分]"
         },
         {
           "title": "AppLovin美股盘后涨6.6%。",
@@ -242,7 +267,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
@@ -267,6 +292,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
+        },
+        {
+          "title": "OpenAI智能音箱售价或定在200至300美元之间。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3056968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "OpenAI：关于芯片供应，公司已做到“对未来需求心中有数”",
@@ -327,6 +363,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
+        },
+        {
+          "title": "OpenAI智能音箱定价可能在200至300美元之间。",
+          "url": "https://flash.jin10.com/detail/20260220220448240800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "OpenAI的200人团队正在开发人工智能设备，包括一款智能音箱。",
+          "url": "https://flash.jin10.com/detail/20260220220314778800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         }
       ]
     },
@@ -400,11 +458,12 @@
           "url": "https://www.zhihu.com/question/2005421279541483469",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时00分]"
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 22时47分]"
         },
         {
           "title": "微软(MSFT.O) CEO发文称，很高兴能将Grok 4.1 Fast添加到我们的多模型产品系列中。马斯克随后转发了该贴并表示，Grok4.20版本即将发布。",
