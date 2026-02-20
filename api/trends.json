@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T18:35:25.989708+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2026-02-20T19:31:12.312679+08:00",
+  "total_titles_processed": 1507,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时29分 ~ 18时35分]"
+          "appearance_count": 14,
+          "time_info": "[06时29分 ~ 19时31分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时14分 ~ 18时35分]"
+          "appearance_count": 11,
+          "time_info": "[12时14分 ~ 19时31分]"
         },
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
@@ -67,8 +67,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时49分 ~ 18时35分]"
+          "appearance_count": 21,
+          "time_info": "[00时49分 ~ 19时31分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -79,8 +79,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时49分 ~ 18时35分]"
+          "appearance_count": 21,
+          "time_info": "[00时49分 ~ 19时31分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -105,6 +105,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时49分 ~ 06时29分]"
+        },
+        {
+          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
+          "url": "https://wallstreetcn.com/articles/3765893",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时37分 ~ 19时31分]"
         },
         {
           "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
@@ -151,19 +164,6 @@
           "time_info": "05时30分"
         },
         {
-          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
-          "url": "https://wallstreetcn.com/articles/3765893",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 18时35分]"
-        },
-        {
           "title": "美股大类资产类ETF涨跌各异，布油基金涨超2.2%",
           "url": "https://wallstreetcn.com/livenews/3056806",
           "source": "华尔街见闻-快讯",
@@ -181,11 +181,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时35分]"
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 19时31分]"
         },
         {
           "title": "AppLovin美股盘后涨6.6%。",
