@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T09:47:28.762084+08:00",
-  "total_titles_processed": 768,
+  "generated_at": "2026-02-21T12:05:39.303497+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2291935",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 09时47分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 12时05分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -36,11 +37,24 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 09时47分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 12时05分]"
+        },
+        {
+          "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
+          "url": "https://wallstreetcn.com/articles/3765902",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时26分 ~ 12时05分]"
         },
         {
           "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破82美元",
@@ -66,18 +80,6 @@
           "time_info": "[00时35分 ~ 02时42分]"
         },
         {
-          "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
-          "url": "https://wallstreetcn.com/articles/3765902",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时26分 ~ 09时47分]"
-        },
-        {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291551",
           "source": "财联社热门",
@@ -89,16 +91,29 @@
           "time_info": "[00时35分 ~ 04时28分]"
         },
         {
+          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2292233",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 12时05分]"
+        },
+        {
           "title": "新兴市场ETF收涨超3.1%，和黄金ETF领跑美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3057137",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 09时47分]"
+          "appearance_count": 3,
+          "time_info": "[07时27分 ~ 12时05分]"
         },
         {
           "title": "区域银行ETF收涨约1.3%，领跑美股行业ETF，标普电信板块涨超2.6%，谷歌A涨4%",
@@ -126,26 +141,16 @@
           "time_info": "[06时23分 ~ 09时47分]"
         },
         {
-          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2292233",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
           "title": "美股七巨头收盘播报｜周五（2月20日），美国科技股七巨头（Magnificent 7）指数涨1.56%，报197.67点，早盘持续上扬，北京时间23:40以来持续高位震荡，本周累计上涨2.63%。 “超大”市值科技股指数涨0.74%，报368.99点，本周累涨1.29%。",
           "url": "https://wallstreetcn.com/livenews/3057139",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 12时05分]"
         },
         {
           "title": "瑞达利欧家族办公室披露5亿美元美股持仓：重仓黄金",
@@ -176,7 +181,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
@@ -184,20 +189,8 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3057138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 09时47分]"
-        },
         {
           "title": "OpenAI工作人员针对加拿大枪击案的嫌犯拉响警报。 相关人员在OpenAI的ChatGPT上谈论枪支暴力活动问题。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3057126",
@@ -205,11 +198,25 @@
           "ranks": [
             3,
             11,
-            19
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时23分 ~ 12时05分]"
+        },
+        {
+          "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3057138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时23分 ~ 09时47分]"
+          "time_info": "[07时27分 ~ 12时05分]"
         },
         {
           "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
@@ -217,11 +224,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 09时47分]"
+          "appearance_count": 3,
+          "time_info": "[07时27分 ~ 12时05分]"
         },
         {
           "title": "报道：英伟达接近向OpenAI投资300亿美元",
@@ -235,6 +243,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时23分 ~ 09时47分]"
+        },
+        {
+          "title": "OpenAI：预计到2030年营收将超过2800亿美元",
+          "url": "https://flash.jin10.com/detail/20260221100811881800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "OpenAI创始人点赞中国大模型",
@@ -251,7 +270,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "清华学霸俞浩放言要超越马斯克、黄仁勋，并批评马斯克「PUA」，如何评价其言论与商业目标？",
@@ -273,11 +292,34 @@
           "url": "https://wallstreetcn.com/livenews/3057141",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 12时05分]"
+        },
+        {
+          "title": "马斯克妈妈说不想去火星",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A6%88%E5%A6%88%E8%AF%B4%E4%B8%8D%E6%83%B3%E5%8E%BB%E7%81%AB%E6%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时47分"
+          "time_info": "12时05分"
+        },
+        {
+          "title": "马斯克称星舰每年将发射超过1万颗卫星",
+          "url": "https://flash.jin10.com/detail/20260221100438466800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "马斯克称星舰每年将发射超1万颗卫星",
@@ -286,7 +328,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
