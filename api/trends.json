@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T06:21:32.452791+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-02-22T07:22:31.688334+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 07时22分]"
         },
         {
           "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 07时22分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -41,19 +41,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 07时22分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
           "url": "https://www.cls.cn/detail/2291935",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 07时22分]"
         }
       ]
     },
@@ -69,8 +70,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 07时22分]"
         }
       ]
     },
