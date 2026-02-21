@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T17:27:49.409303+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2026-02-21T18:23:43.346550+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时26分 ~ 17时27分]"
+          "appearance_count": 13,
+          "time_info": "[07时26分 ~ 18时23分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时47分 ~ 17时27分]"
+          "appearance_count": 11,
+          "time_info": "[09时47分 ~ 18时23分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时35分 ~ 17时27分]"
+          "appearance_count": 21,
+          "time_info": "[00时35分 ~ 18时23分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -71,6 +71,21 @@
           "time_info": "[00时35分 ~ 12时05分]"
         },
         {
+          "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
+          "url": "https://wallstreetcn.com/articles/3765925",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时38分 ~ 18时23分]"
+        },
+        {
           "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破82美元",
           "url": "https://wallstreetcn.com/articles/3765902",
           "source": "华尔街见闻",
@@ -92,20 +107,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时35分 ~ 02时42分]"
-        },
-        {
-          "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
-          "url": "https://wallstreetcn.com/articles/3765925",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时38分 ~ 17时27分]"
         },
         {
           "title": "新兴市场ETF收涨超3.1%，和黄金ETF领跑美股大类资产类ETF",
@@ -210,108 +211,8 @@
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "清华学霸俞浩放言要超越马斯克、黄仁勋，并批评马斯克「PUA」，如何评价其言论与商业目标？",
-          "url": "https://www.zhihu.com/question/2005421279541483469",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5,
-            4,
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 09时47分]"
-        },
-        {
-          "title": "马斯克称星舰每年将发射超过1万颗卫星",
-          "url": "https://wallstreetcn.com/livenews/3057141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16,
-            19,
-            21,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 16时28分]"
-        },
-        {
-          "title": "马斯克称星舰每年将发射超过1万颗卫星",
-          "url": "https://flash.jin10.com/detail/20260221100438466800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            11,
-            17,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时05分 ~ 16时28分]"
-        },
-        {
-          "title": "欧媒：马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉",
-          "url": "https://flash.jin10.com/detail/20260221144322666800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时31分 ~ 17时27分]"
-        },
-        {
-          "title": "马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉",
-          "url": "https://wallstreetcn.com/livenews/3057164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时31分 ~ 17时27分]"
-        },
-        {
-          "title": "马斯克妈妈说不想去火星",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A6%88%E5%A6%88%E8%AF%B4%E4%B8%8D%E6%83%B3%E5%8E%BB%E7%81%AB%E6%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "马斯克称星舰每年将发射超1万颗卫星",
-          "url": "https://www.toutiao.com/trending/7608435920823435274/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
@@ -387,6 +288,17 @@
           "time_info": "[06时23分 ~ 09时47分]"
         },
         {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "OpenAI创始人点赞中国大模型",
           "url": "https://www.toutiao.com/trending/7608951834689932827/",
           "source": "今日头条",
@@ -396,6 +308,108 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "清华学霸俞浩放言要超越马斯克、黄仁勋，并批评马斯克「PUA」，如何评价其言论与商业目标？",
+          "url": "https://www.zhihu.com/question/2005421279541483469",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            4,
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 09时47分]"
+        },
+        {
+          "title": "马斯克称星舰每年将发射超过1万颗卫星",
+          "url": "https://wallstreetcn.com/livenews/3057141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16,
+            19,
+            21,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 16时28分]"
+        },
+        {
+          "title": "欧媒：马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉",
+          "url": "https://flash.jin10.com/detail/20260221144322666800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时31分 ~ 18时23分]"
+        },
+        {
+          "title": "马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉",
+          "url": "https://wallstreetcn.com/livenews/3057164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时31分 ~ 18时23分]"
+        },
+        {
+          "title": "马斯克称星舰每年将发射超过1万颗卫星",
+          "url": "https://flash.jin10.com/detail/20260221100438466800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            11,
+            17,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时05分 ~ 16时28分]"
+        },
+        {
+          "title": "马斯克妈妈说不想去火星",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A6%88%E5%A6%88%E8%AF%B4%E4%B8%8D%E6%83%B3%E5%8E%BB%E7%81%AB%E6%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "马斯克称星舰每年将发射超1万颗卫星",
+          "url": "https://www.toutiao.com/trending/7608435920823435274/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         }
       ]
     },
@@ -411,8 +425,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时30分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[15时30分 ~ 18时23分]"
         },
         {
           "title": "金价",
@@ -421,11 +435,12 @@
           "ranks": [
             11,
             13,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时39分 ~ 17时27分]"
+          "appearance_count": 5,
+          "time_info": "[14时39分 ~ 18时23分]"
         },
         {
           "title": "金价震荡后回升，关税风波叠加俄罗斯售金",
