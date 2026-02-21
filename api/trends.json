@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T21:41:11.332269+08:00",
-  "total_titles_processed": 1378,
+  "generated_at": "2026-02-21T22:25:01.587599+08:00",
+  "total_titles_processed": 1416,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时26分 ~ 21时41分]"
+          "appearance_count": 20,
+          "time_info": "[07时26分 ~ 22时25分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时47分 ~ 21时41分]"
+          "appearance_count": 18,
+          "time_info": "[09时47分 ~ 22时25分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -43,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时35分 ~ 21时41分]"
+          "appearance_count": 28,
+          "time_info": "[00时35分 ~ 22时25分]"
         },
         {
           "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
@@ -59,8 +59,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时38分 ~ 21时41分]"
+          "appearance_count": 15,
+          "time_info": "[14时38分 ~ 22时25分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -223,11 +223,12 @@
           "ranks": [
             10,
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时23分 ~ 21时41分]"
+          "appearance_count": 8,
+          "time_info": "[18时23分 ~ 22时25分]"
         },
         {
           "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
@@ -431,11 +432,12 @@
             13,
             16,
             25,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时30分 ~ 21时41分]"
+          "appearance_count": 13,
+          "time_info": "[15时30分 ~ 22时25分]"
         },
         {
           "title": "金价",
