@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T18:22:54.743425+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2026-02-22T19:20:07.620667+08:00",
+  "total_titles_processed": 1053,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时26分 ~ 18时22分]"
+          "appearance_count": 22,
+          "time_info": "[00时26分 ~ 19时20分]"
         },
         {
           "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
@@ -46,18 +46,6 @@
           "time_info": "[00时26分 ~ 07时22分]"
         },
         {
-          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2291935",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时26分 ~ 18时22分]"
-        },
-        {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
           "url": "https://wallstreetcn.com/articles/3765941",
           "source": "华尔街见闻",
@@ -69,8 +57,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时43分 ~ 18时22分]"
+          "appearance_count": 9,
+          "time_info": "[14时43分 ~ 19时20分]"
+        },
+        {
+          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2291935",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时26分 ~ 19时20分]"
         }
       ]
     },
@@ -87,8 +87,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时26分 ~ 18时22分]"
+          "appearance_count": 22,
+          "time_info": "[00时26分 ~ 19时20分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -117,8 +117,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时34分 ~ 18时22分]"
+          "appearance_count": 8,
+          "time_info": "[15时34分 ~ 19时20分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
