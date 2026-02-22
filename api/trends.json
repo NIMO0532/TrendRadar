@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T09:55:14.622839+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-02-22T12:15:45.543244+08:00",
+  "total_titles_processed": 691,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 09时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 12时15分]"
         },
         {
           "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
@@ -54,8 +54,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 09时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 12时15分]"
         }
       ]
     },
@@ -68,22 +68,24 @@
           "url": "https://www.cls.cn/detail/2292326",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 09时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 12时15分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
           "url": "https://wallstreetcn.com/articles/3765938",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 09时55分]"
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 12时15分]"
         }
       ]
     },
@@ -97,11 +99,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 12时15分]"
         }
       ]
     }
