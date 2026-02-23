@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T07:24:08.467817+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-02-23T09:56:22.925582+08:00",
+  "total_titles_processed": 647,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时56分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时56分]"
         }
       ]
     },
@@ -43,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时56分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -69,11 +69,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时32分 ~ 07时24分]"
+          "appearance_count": 8,
+          "time_info": "[02时32分 ~ 09时56分]"
         }
       ]
     }
