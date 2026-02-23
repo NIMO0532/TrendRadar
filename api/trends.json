@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T04:42:16.703242+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-02-24T05:42:32.464441+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 11,
       "titles": [
         {
           "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时42分]"
         },
         {
           "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
@@ -27,19 +27,52 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时42分]"
         },
         {
-          "title": "AI恐慌之下投资者成惊弓之鸟，一份假想报告引发美股多板块遭血洗",
-          "url": "https://wallstreetcn.com/livenews/3057632",
+          "title": "美股七巨头收盘播报｜微软收跌3.2%，特斯拉、Meta、亚马逊至多跌2.9%",
+          "url": "https://wallstreetcn.com/livenews/3057665",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "金十图示：2026年02月23日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260224051035173800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260224050959361800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "美股三大股指大幅收跌 IBM大跌13%",
+          "url": "https://flash.jin10.com/detail/20260224050545152800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时42分"
+          "time_info": "05时42分"
         },
         {
           "title": "金十图示：2026年02月23日（周一）美股热门股票行情一览（美股盘中）",
@@ -54,6 +87,18 @@
           "time_info": "[02时45分 ~ 03时29分]"
         },
         {
+          "title": "AI恐慌之下投资者成惊弓之鸟，一份假想报告引发美股多板块遭血洗",
+          "url": "https://wallstreetcn.com/livenews/3057632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时42分]"
+        },
+        {
           "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260224015251428800",
           "source": "金十数据",
@@ -64,6 +109,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时45分 ~ 03时29分]"
+        },
+        {
+          "title": "区域银行ETF和银行业ETF收跌超4.3%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3057657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "标普500指数收跌71.76点，跌幅1.04%，报6837.75点。 道琼斯工业平均指数收跌821.91点，跌幅1.66%，报48804.06点。 纳斯达克综合指数（纳指）收跌258.796点，跌幅1.13%，报22627.273点。 纳斯达克100指数收跌303.677点，跌幅1.21%，报24708.942点。 纳斯达克生物科技指数收涨0.58%，报6014.09点。 费城半导体指数收跌0.57%，报8213.457点。 费城证交所KBW银行指数收跌4.40%，报161.73点，美股早盘持续下跌，呈现出长尾L形走势。 道琼斯KBW地区银行指数收跌4.27%，报132.90点。",
+          "url": "https://wallstreetcn.com/livenews/3057648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         }
       ]
     },
@@ -102,7 +169,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -132,8 +199,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时42分]"
         },
         {
           "title": "机构：特朗普关税引发不确定性，金价有望再创新高",
@@ -142,7 +209,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         }
