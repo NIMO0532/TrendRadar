@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T12:17:43.405725+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2026-02-24T13:58:34.101360+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 12时17分]"
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 13时58分]"
         },
         {
           "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
@@ -64,8 +64,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时33分 ~ 12时17分]"
+          "appearance_count": 4,
+          "time_info": "[07时33分 ~ 13时58分]"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -76,8 +76,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 12时17分]"
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 13时58分]"
         },
         {
           "title": "美股七巨头收盘播报｜微软收跌3.2%，特斯拉、Meta、亚马逊至多跌2.9%",
@@ -182,9 +182,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 13时58分]"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘后涨1.6%。",
@@ -303,6 +303,35 @@
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克：Anthropic公司大规模窃取训练数据，并为此支付了数十亿美元的赔偿金。这是不争的事实。",
+          "url": "https://flash.jin10.com/detail/20260224055544706800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时33分]"
+        },
+        {
+          "title": "马斯克：如果有人对F-35战机进行逆向破解，那他们就闹出笑话了。此前，马斯克批评F-35在无人机时代已“过时”。",
+          "url": "https://flash.jin10.com/detail/20260224123111917800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -316,24 +345,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克：Anthropic公司大规模窃取训练数据，并为此支付了数十亿美元的赔偿金。这是不争的事实。",
-          "url": "https://flash.jin10.com/detail/20260224055544706800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时39分 ~ 07时33分]"
         }
       ]
     }
