@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T18:36:48.402758+08:00",
-  "total_titles_processed": 1508,
+  "generated_at": "2026-02-24T18:45:41.880985+08:00",
+  "total_titles_processed": 1529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -16,19 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时53分 ~ 18时36分]"
-        },
-        {
-          "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[09时53分 ~ 18时45分]"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -41,8 +30,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时53分 ~ 18时36分]"
+          "appearance_count": 8,
+          "time_info": "[09时53分 ~ 18时45分]"
+        },
+        {
+          "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时42分]"
         },
         {
           "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
@@ -92,8 +92,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时17分 ~ 18时36分]"
+          "appearance_count": 7,
+          "time_info": "[12时17分 ~ 18时45分]"
+        },
+        {
+          "title": "台积电(TSM.N)美股盘前涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260224183649162800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "美股七巨头收盘播报｜微软收跌3.2%，特斯拉、Meta、亚马逊至多跌2.9%",
@@ -132,6 +143,18 @@
           "time_info": "[05时42分 ~ 06时39分]"
         },
         {
+          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
+          "url": "https://www.zhihu.com/question/2009566964868150665",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时57分 ~ 18时45分]"
+        },
+        {
           "title": "金十图示：2026年02月23日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260224015335314800",
           "source": "金十数据",
@@ -166,18 +189,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 05时42分]"
-        },
-        {
-          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
-          "url": "https://www.zhihu.com/question/2009566964868150665",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时57分 ~ 18时36分]"
         },
         {
           "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股盘中）",
