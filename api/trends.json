@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T02:59:04.214083+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-02-25T03:50:40.229613+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 03时50分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 03时50分]"
         },
         {
           "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
@@ -37,8 +37,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 03时50分]"
+        },
+        {
+          "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2293967",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 03时50分]"
         },
         {
           "title": "数字货币市场在美股早盘反弹",
@@ -51,17 +63,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时04分 ~ 02时59分]"
-        },
-        {
-          "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2293967",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 02时59分]"
         },
         {
           "title": "美股三大股指延续涨势，纳指涨超1%，道指涨0.83%，标普500指数涨0.68%。",
@@ -81,7 +82,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         }
