@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T09:56:07.507010+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2026-02-25T12:20:07.099794+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时03分 ~ 09时56分]"
+          "appearance_count": 13,
+          "time_info": "[01时03分 ~ 12时20分]"
         },
         {
           "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
@@ -64,8 +64,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 09时56分]"
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 12时20分]"
         },
         {
           "title": "数字货币市场在美股早盘反弹",
@@ -232,11 +232,12 @@
           "url": "https://www.cls.cn/detail/2294211",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 12时20分]"
         },
         {
           "title": "马斯克发帖暗示“辛鲍姆与贩毒集团存在关联”，墨西哥总统：正考虑采取法律行动",
@@ -245,7 +246,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         }
