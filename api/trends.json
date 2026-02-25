@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T12:20:07.099794+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2026-02-25T13:59:41.250071+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
@@ -64,8 +64,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 12时20分]"
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 13时59分]"
         },
         {
           "title": "数字货币市场在美股早盘反弹",
@@ -233,11 +233,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 12时20分]"
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 13时59分]"
         },
         {
           "title": "马斯克发帖暗示“辛鲍姆与贩毒集团存在关联”，墨西哥总统：正考虑采取法律行动",
