@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T19:39:01.101282+08:00",
-  "total_titles_processed": 1685,
+  "generated_at": "2026-02-26T21:00:51.932967+08:00",
+  "total_titles_processed": 1802,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时26分 ~ 19时39分]"
+          "appearance_count": 14,
+          "time_info": "[07时26分 ~ 21时00分]"
         },
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -234,7 +234,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         }
@@ -305,7 +305,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -316,7 +316,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         }
