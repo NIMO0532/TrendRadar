@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T12:15:17.571823+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2026-02-26T13:56:56.911666+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 12时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 13时56分]"
         },
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时26分 ~ 12时15分]"
+          "appearance_count": 5,
+          "time_info": "[07时26分 ~ 13时56分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时26分 ~ 12时15分]"
+          "appearance_count": 5,
+          "time_info": "[07时26分 ~ 13时56分]"
         },
         {
           "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
@@ -188,6 +188,38 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价高的已经推出红绳戒指了",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            25,
+            24,
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 07时27分]"
+        },
+        {
+          "title": "女子泰国机场1110元金价买了周大福",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B3%B0%E5%9B%BD%E6%9C%BA%E5%9C%BA1110%E5%85%83%E9%87%91%E4%BB%B7%E4%B9%B0%E4%BA%86%E5%91%A8%E5%A4%A7%E7%A6%8F%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "青岛啤酒 百威亚太 华润啤酒 燕京啤酒 重庆啤酒 啤酒",
       "match_count": 1,
       "titles": [
@@ -205,27 +237,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价高的已经推出红绳戒指了",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            25,
-            24,
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 07时27分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -238,8 +249,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 12时15分]"
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 13时56分]"
         }
       ]
     }
