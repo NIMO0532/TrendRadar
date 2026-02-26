@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-02-27T02:50:39.777809+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-02-27T03:42:46.348020+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
+          "url": "https://flash.jin10.com/detail/20260227025809636800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
+        },
+        {
+          "title": "OpenAI：已解决ChatGPT相关问题。",
+          "url": "https://flash.jin10.com/detail/20260227000316365800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 2,
@@ -15,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时42分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
@@ -26,25 +54,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI：已解决ChatGPT相关问题。",
-          "url": "https://flash.jin10.com/detail/20260227000316365800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时42分]"
         }
       ]
     }
