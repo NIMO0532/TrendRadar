@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T19:31:37.733302+08:00",
-  "total_titles_processed": 1697,
+  "generated_at": "2026-02-27T20:54:03.397089+08:00",
+  "total_titles_processed": 1807,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
@@ -190,6 +190,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "2025年沙特投资者大幅增加美股交易量，国内交易额近乎减半",
+          "url": "https://flash.jin10.com/detail/20260227200350341800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         }
       ]
     },
@@ -260,6 +271,34 @@
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克：特斯拉将在20年内上月球建厂 建议投资者长期持股",
+          "url": "https://wallstreetcn.com/livenews/3060282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "马斯克：需要注意的是，SpaceX只有在两次完美的海洋软着陆后才会尝试用塔架捕获飞船。飞船在陆地上解体的风险必须非常低。",
+          "url": "https://flash.jin10.com/detail/20260227105951543800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -273,23 +312,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克：需要注意的是，SpaceX只有在两次完美的海洋软着陆后才会尝试用塔架捕获飞船。飞船在陆地上解体的风险必须非常低。",
-          "url": "https://flash.jin10.com/detail/20260227105951543800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
         }
       ]
     },
