@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T21:59:46.202060+08:00",
-  "total_titles_processed": 1925,
+  "generated_at": "2026-02-27T22:44:03.871197+08:00",
+  "total_titles_processed": 2014,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 28,
+      "match_count": 39,
       "titles": [
         {
           "title": "硅谷“最贵华人”被OpenAI挖走",
@@ -29,7 +29,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -40,18 +40,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "亚马逊股价盘前下跌0.9%，此前该公司宣布计划投资OpenAI。 微软股价盘前下跌2.4%，谷歌A下跌0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3060342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -62,7 +51,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -73,18 +62,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "亚马逊将向OpenAI投资500亿美元 建立多年战略伙伴关系",
-          "url": "https://wallstreetcn.com/livenews/3060341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -95,7 +73,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -112,13 +90,48 @@
           "time_info": "[06时31分 ~ 07时27分]"
         },
         {
+          "title": "亚马逊股价盘前下跌0.9%，此前该公司宣布计划投资OpenAI。 微软股价盘前下跌2.4%，谷歌A下跌0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3060342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时44分]"
+        },
+        {
+          "title": "亚马逊将向OpenAI投资500亿美元 建立多年战略伙伴关系",
+          "url": "https://wallstreetcn.com/livenews/3060341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时44分]"
+        },
+        {
+          "title": "OpenAI获1100亿美元投资",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 22时44分]"
+        },
+        {
           "title": "OpenAI：承诺消耗约2吉瓦的训练算力。",
           "url": "https://flash.jin10.com/detail/20260227213613966800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -129,7 +142,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -140,7 +153,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -151,7 +164,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -162,7 +175,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -184,9 +197,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI与美国国防部尚未签署任何协议。",
+          "url": "https://flash.jin10.com/detail/20260227220453170800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "OpenAI基金会持有的OpenAI集团股份价值升至逾1800亿美元。",
@@ -195,9 +219,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI创始人奥尔特曼正与美国国防部合作，探讨是否可使用相关模型。",
+          "url": "https://flash.jin10.com/detail/20260227220430471800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "软银：交易完成后对OpenAI持股比例约为13%。",
@@ -206,7 +241,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -228,7 +263,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -239,9 +274,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
+        },
+        {
+          "title": "据华尔街日报报道，Sam Altman（OpenAI的CEO）与美国国防部合作，研究模型是否可用。 但双方尚未签署任何协议。 Altman呼吁五角大楼与Anthropic缓和争端。",
+          "url": "https://wallstreetcn.com/livenews/3060358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "OpenAI与亚马逊(AMZN.O)将开发定制模型。",
@@ -250,9 +296,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI创始人奥尔特曼呼吁缓和美国国防部与Anthropic之间的争端。",
+          "url": "https://flash.jin10.com/detail/20260227220219102800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "OpenAI的融资包括来自软银的300亿美元。",
@@ -261,7 +318,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -272,7 +329,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -283,9 +340,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：当前的融资提供了长期发展的保障。",
+          "url": "https://flash.jin10.com/detail/20260227215950428800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "亚马逊(AMZN.O)：亚马逊将向OpenAI投资500亿美元。",
@@ -294,9 +362,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：不认为美国应该对人工智能公司实施数据保护法案的威胁。",
+          "url": "https://flash.jin10.com/detail/20260227215941059800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "OpenAI：已解决ChatGPT相关问题。",
@@ -316,15 +395,59 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
+        },
+        {
+          "title": "OpenAI首席执行官Altman：对在合适的时机上市持开放态度。 希望与亚马逊建立长期、深入的关系。",
+          "url": "https://wallstreetcn.com/livenews/3060349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：希望与亚马逊(AMZN.O)建立长期、深入的合作关系。",
+          "url": "https://flash.jin10.com/detail/20260227215545958800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
+          "title": "OpenAI：以7300亿美元的估值完成创纪录的1100亿美元融资",
+          "url": "https://wallstreetcn.com/livenews/3060345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：专注于降低服务交付成本。",
+          "url": "https://flash.jin10.com/detail/20260227215455321800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
@@ -363,6 +486,17 @@
           "time_info": "[00时56分 ~ 12时12分]"
         },
         {
+          "title": "地缘风险升温，美股2月迈向下跌，道指期货跌超1%，金银油携手大涨，美债上扬，人民币贬近150点",
+          "url": "https://wallstreetcn.com/articles/3766324",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 22时44分]"
+        },
+        {
           "title": "奈飞(NFLX.O)美股盘后大涨近8%。",
           "url": "https://flash.jin10.com/detail/20260227064744288800",
           "source": "金十数据",
@@ -380,7 +514,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -394,6 +528,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "全球航空业ETF跌3.71%，区域银行ETF跌2.46%，银行业ETF跌2.4%，在美股盘初领跌行业ETF，全球科技股指数ETF、半导体ETF、科技行业ETF至多跌1.73%，能源业ETF涨0.93%。",
+          "url": "https://wallstreetcn.com/livenews/3060373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "Block美股盘后涨22%，该公司计划砍掉将近一半的员工。",
@@ -531,6 +676,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3060354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
+          "title": "美股石油股盘前走高，埃克森美孚石油(XOM.N)上涨1.7%，雪佛龙(CVX.N)上涨1.4%，康菲石油(COP.N)上涨1.6%。",
+          "url": "https://flash.jin10.com/detail/20260227215626958800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         }
       ]
     },
@@ -563,6 +730,34 @@
       ]
     },
     {
+      "keyword_group": "员工持股 回购",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "索尼股价大涨7%，此前公司宣布扩大股票回购计划。",
+          "url": "https://wallstreetcn.com/livenews/3059873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "瑞士再保险发布创纪录的48亿美元利润，计划回购15亿美元股票，股价涨5%",
+          "url": "https://wallstreetcn.com/livenews/3060351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -576,23 +771,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "员工持股 回购",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "索尼股价大涨7%，此前公司宣布扩大股票回购计划。",
-          "url": "https://wallstreetcn.com/livenews/3059873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
         }
       ]
     }
