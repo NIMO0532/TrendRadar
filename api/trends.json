@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T16:26:28.654007+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2026-02-28T17:24:05.377960+08:00",
+  "total_titles_processed": 1516,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[05时27分 ~ 16时26分]"
+          "appearance_count": 16,
+          "time_info": "[05时27分 ~ 17时24分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -55,11 +55,12 @@
           "ranks": [
             8,
             16,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时34分 ~ 16时26分]"
+          "appearance_count": 7,
+          "time_info": "[14时34分 ~ 17时24分]"
         },
         {
           "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
@@ -221,8 +222,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时41分 ~ 16时26分]"
+          "appearance_count": 13,
+          "time_info": "[09时41分 ~ 17时24分]"
         },
         {
           "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
@@ -235,8 +236,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时22分 ~ 16时26分]"
+          "appearance_count": 14,
+          "time_info": "[07时22分 ~ 17时24分]"
         },
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
@@ -259,8 +260,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时24分 ~ 16时26分]"
+          "appearance_count": 5,
+          "time_info": "[15时24分 ~ 17时24分]"
         },
         {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
@@ -345,8 +346,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 16时26分]"
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 17时24分]"
         },
         {
           "title": "以色列伊朗 金价",
@@ -355,7 +356,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         }
