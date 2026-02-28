@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T20:40:13.284581+08:00",
-  "total_titles_processed": 1895,
+  "generated_at": "2026-02-28T21:35:44.862426+08:00",
+  "total_titles_processed": 1988,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[05时27分 ~ 20时40分]"
+          "appearance_count": 22,
+          "time_info": "[05时27分 ~ 21时35分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -49,8 +49,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时34分 ~ 20时40分]"
+          "appearance_count": 13,
+          "time_info": "[14时34分 ~ 21时35分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -161,8 +161,20 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时17分 ~ 21时35分]"
+        },
+        {
+          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2011023228328510169",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时17分 ~ 20时40分]"
+          "time_info": "[20时39分 ~ 21时35分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
@@ -187,17 +199,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时53分 ~ 12时54分]"
-        },
-        {
-          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2011023228328510169",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 20时40分]"
         },
         {
           "title": "一位消息人士透露，五角大楼已同意OpenAI制定的在保密环境下安全部署其技术的规则，但尚未签署任何合同。",
@@ -248,8 +249,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时41分 ~ 20时40分]"
+          "appearance_count": 19,
+          "time_info": "[09时41分 ~ 21时35分]"
         },
         {
           "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
@@ -260,8 +261,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时24分 ~ 20时40分]"
+          "appearance_count": 11,
+          "time_info": "[15时24分 ~ 21时35分]"
         },
         {
           "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
@@ -307,11 +308,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 20时40分]"
+          "appearance_count": 6,
+          "time_info": "[18时20分 ~ 21时35分]"
         },
         {
           "title": "美股金银指数收涨超1.6%，历史上首次站上470点，2月份累涨23%",
@@ -383,11 +385,12 @@
           "ranks": [
             13,
             11,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时25分 ~ 20时40分]"
+          "appearance_count": 7,
+          "time_info": "[15时25分 ~ 21时35分]"
         },
         {
           "title": "伊朗局势如何影响金价 专家称未来48小时决定金价走势",
@@ -408,8 +411,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时17分 ~ 20时40分]"
+          "appearance_count": 4,
+          "time_info": "[19时17分 ~ 21时35分]"
         },
         {
           "title": "专家：金价极端情况下或到7000美元",
