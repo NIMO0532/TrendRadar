@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T07:22:22.142498+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-02-28T09:41:44.279611+08:00",
+  "total_titles_processed": 822,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
@@ -26,9 +26,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
+          "url": "https://wallstreetcn.com/articles/3766324",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
+          "url": "https://www.cls.cn/detail/2297908",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时41分]"
         },
         {
           "title": "美股金银指数收涨超1.6%，历史上首次站上470点，2月份累涨23%",
@@ -53,17 +76,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时22分]"
-        },
-        {
-          "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
-          "url": "https://www.cls.cn/detail/2297908",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时22分"
         },
         {
           "title": "美股七巨头收盘播报｜周五（2月27日），美国科技股七巨头（Magnificent 7）指数跌1.83%，报193.36点，本周累计下跌2.18%，2月份累计下跌6.57%，大部分时间低位震荡——交投于195点附近。 “超大”市值科技股指数跌0.82%，报366.62点，2月份累跌6.91%。",
@@ -91,8 +103,21 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
+          "url": "https://www.cls.cn/detail/2297763",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时33分 ~ 09时41分]"
+        },
         {
           "title": "OpenAI获1100亿美元投资",
           "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
@@ -106,17 +131,18 @@
           "time_info": "[00时38分 ~ 07时22分]"
         },
         {
-          "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
-          "url": "https://www.cls.cn/detail/2297763",
-          "source": "财联社热门",
+          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
+          "url": "https://wallstreetcn.com/articles/3766389",
+          "source": "华尔街见闻",
           "ranks": [
             10,
             9,
-            7
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时33分 ~ 07时22分]"
+          "appearance_count": 4,
+          "time_info": "[05时27分 ~ 09时41分]"
         },
         {
           "title": "OpenAI将追加融资100亿美元。（The Information）",
@@ -131,17 +157,15 @@
           "time_info": "[03时32分 ~ 04时25分]"
         },
         {
-          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
-          "url": "https://wallstreetcn.com/articles/3766389",
-          "source": "华尔街见闻",
+          "title": "一位消息人士透露，五角大楼已同意OpenAI制定的在保密环境下安全部署其技术的规则，但尚未签署任何合同。",
+          "url": "https://flash.jin10.com/detail/20260228080935525800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9,
-            8
+            13
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时27分 ~ 07时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         },
         {
           "title": "（对于此前宣布的OpenAI已完成的融资轮）亚马逊对OpenAI的500亿美元投资为现金。 OpenAI料将在3月底之前融资大约100亿美元。（彭博）",
