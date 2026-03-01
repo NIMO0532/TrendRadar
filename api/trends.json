@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T16:28:20.735605+08:00",
-  "total_titles_processed": 1284,
+  "generated_at": "2026-03-01T17:28:00.386901+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
@@ -23,8 +23,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 16时28分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 17时28分]"
         },
         {
           "title": "马斯克：我一点也不信任OpenAI。",
@@ -322,8 +322,25 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时52分 ~ 16时28分]"
+          "appearance_count": 8,
+          "time_info": "[12时52分 ~ 17时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金暗盘价格为何跌了",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E6%9A%97%E7%9B%98%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E8%B7%8C%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 17时28分]"
         }
       ]
     }
