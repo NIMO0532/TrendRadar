@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T07:19:49.175952+08:00",
-  "total_titles_processed": 669,
+  "generated_at": "2026-03-01T10:02:20.466033+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             20,
             19,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 10时02分]"
         },
         {
           "title": "OpenAI就与美国国防部的协议表示，与任何合同一样，若政府违反条款，我们有权终止协议，但我们并不预期会出现这种情况。",
@@ -52,7 +53,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -137,7 +138,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“中东火药桶”炸了！美以对伊朗发起袭击，金价油价或继续飙涨",
@@ -161,8 +162,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 10时02分]"
         },
         {
           "title": "专家：金价极端情况下或到7000美元",
@@ -177,6 +178,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时23分 ~ 05时19分]"
+        },
+        {
+          "title": "专家称未来48小时决定金价走势",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%9C%AA%E6%9D%A548%E5%B0%8F%E6%97%B6%E5%86%B3%E5%AE%9A%E9%87%91%E4%BB%B7%E8%B5%B0%E5%8A%BF%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     },
@@ -192,8 +204,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 10时02分]"
         },
         {
           "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
@@ -211,11 +223,12 @@
           "url": "https://www.zhihu.com/question/2011096140146286806",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 10时02分]"
         }
       ]
     },
