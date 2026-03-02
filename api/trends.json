@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T19:31:44.664834+08:00",
-  "total_titles_processed": 1719,
+  "generated_at": "2026-03-02T20:53:42.525266+08:00",
+  "total_titles_processed": 1838,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 19时31分]"
+          "appearance_count": 4,
+          "time_info": "[17时45分 ~ 20时53分]"
         },
         {
           "title": "伊朗危机冲击全球市场：美股三大股指期货均跌0.7%，巴基斯坦触发熔断，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
@@ -132,11 +132,12 @@
             8,
             5,
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时51分 ~ 19时31分]"
+          "appearance_count": 10,
+          "time_info": "[13时51分 ~ 20时53分]"
         },
         {
           "title": "美以袭击伊朗金价为何下跌",
