@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T04:35:16.477222+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-03-03T05:31:11.105162+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 05时31分]"
+        },
+        {
+          "title": "避险情绪席卷市场 美股期指大幅下挫 原油黄金齐涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2300294",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时35分]"
+          "time_info": "[02时42分 ~ 05时31分]"
         },
         {
           "title": "美股三大股指低开高走，现已悉数转涨，道指涨0.02%，标普500指数现涨0.1%，纳指涨0.47%。",
@@ -28,17 +39,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
-        },
-        {
-          "title": "避险情绪席卷市场 美股期指大幅下挫 原油黄金齐涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2300294",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时42分 ~ 04时35分]"
         },
         {
           "title": "数字货币市场在美股开盘后反弹，Solana涨超8%，以太币涨超7%",
@@ -68,7 +68,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "据知情人士透露，马斯克旗下xAI计划最快下周赎回30亿美元2025年6月发行的债券。（彭博）",
@@ -89,9 +89,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "报道：马斯克旗下X与xAI拟偿还175亿美元债务 SpaceX上市临近",
+          "url": "https://wallstreetcn.com/livenews/3062123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX计划在2027年年中为新款星链（Starlink）卫星的发射工作做好准备。（英国金融时报）",
@@ -103,6 +114,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
+          "url": "https://wallstreetcn.com/livenews/3062140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "大批OpenAI用户转投Anthropic 后者登顶美国APP下载榜",
+          "url": "https://flash.jin10.com/detail/20260303044811624800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         }
       ]
     }
