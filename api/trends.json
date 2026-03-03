@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T15:41:13.324154+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2026-03-03T16:38:14.577929+08:00",
+  "total_titles_processed": 1449,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "[00时42分 ~ 06时25分]"
         },
         {
+          "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时55分 ~ 16时38分]"
+        },
+        {
           "title": "美股收盘：地缘冲突下市场剧烈波动 三大股指涨跌不一",
           "url": "https://www.cls.cn/detail/2300479",
           "source": "财联社热门",
@@ -30,17 +42,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时23分 ~ 15时41分]"
-        },
-        {
-          "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
-          "url": "https://wallstreetcn.com/articles/3766477",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时55分 ~ 15时41分]"
         },
         {
           "title": "避险情绪席卷市场 美股期指大幅下挫 原油黄金齐涨 | 今夜看点",
@@ -174,7 +175,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
@@ -187,6 +188,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时25分]"
+        },
+        {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
         },
         {
           "title": "OpenAI奥特曼：正与国防部合作，对合约进行一些补充。 新增内容将使“原则变得非常清晰”。 国防情报机构不会使用OpenAI的服务。 人工智能系统不应用于国内监控。",
@@ -331,8 +343,20 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "特朗普“不惜一切”誓言加剧股市抛售，油价三连涨，日韩股市狂泻，三星跌10%，金价回落至5300美元下方",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时40分 ~ 16时38分]"
+        },
         {
           "title": "惠誉旗下研究机构：若中东局势持续，金价本周或创历史新高",
           "url": "https://flash.jin10.com/detail/20260303114847241800",
@@ -345,15 +369,15 @@
           "time_info": "12时14分"
         },
         {
-          "title": "特朗普“不惜一切”誓言加剧股市抛售，油价三连涨，日韩股市狂泻，三星跌10%，金价回落至5300美元下方",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
+          "title": "金价上涨 但受强势美元限制",
+          "url": "https://flash.jin10.com/detail/20260303155538645800",
+          "source": "金十数据",
           "ranks": [
-            7
+            21
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 15时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         }
       ]
     }
