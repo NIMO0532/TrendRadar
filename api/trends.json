@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T18:36:47.717482+08:00",
-  "total_titles_processed": 1692,
+  "generated_at": "2026-03-03T19:31:47.993911+08:00",
+  "total_titles_processed": 1793,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时55分 ~ 18时36分]"
+          "appearance_count": 11,
+          "time_info": "[09时55分 ~ 19时31分]"
         },
         {
           "title": "美股收盘：地缘冲突下市场剧烈波动 三大股指涨跌不一",
@@ -216,11 +216,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 18时36分]"
+          "appearance_count": 5,
+          "time_info": "[16时37分 ~ 19时31分]"
         },
         {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
