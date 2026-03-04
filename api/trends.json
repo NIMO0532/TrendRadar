@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T00:40:18.607232+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-05T01:37:27.692449+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时37分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时37分]"
         },
         {
           "title": "中东局势升级但市场情绪暂稳 美股三大期指集体走高 | 今夜看点",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时37分]"
         }
       ]
     },
