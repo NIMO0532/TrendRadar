@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T13:45:25.168214+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2026-03-05T14:47:21.274015+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,17 @@
           "time_info": "[00时40分 ~ 06时29分]"
         },
         {
+          "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时28分 ~ 14时47分]"
+        },
+        {
           "title": "中东局势升级但市场情绪暂稳 美股三大期指集体走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2302992",
           "source": "财联社热门",
@@ -43,17 +54,6 @@
           "time_info": "[00时40分 ~ 13时45分]"
         },
         {
-          "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
-          "url": "https://wallstreetcn.com/articles/3766668",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时28分 ~ 13时45分]"
-        },
-        {
           "title": "美股收盘：通胀担忧暂缓、油价持稳 科技股带动大盘重拾升势",
           "url": "https://www.cls.cn/detail/2303150",
           "source": "财联社热门",
@@ -63,8 +63,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时28分 ~ 13时45分]"
+          "appearance_count": 6,
+          "time_info": "[07时28分 ~ 14时47分]"
         },
         {
           "title": "美股七巨头收盘播报｜亚马逊收涨将近3.9%，特斯拉涨超3.4%",
@@ -207,8 +207,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 13时45分]"
+          "appearance_count": 4,
+          "time_info": "[12时10分 ~ 14时47分]"
         },
         {
           "title": "OpenAI与Trade Desk Inc.（TTD）围绕广告销售启动初步的磋商。（The Information）",
@@ -328,6 +328,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时10分 ~ 12时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "分析师：美元走强或继续压制金价走势",
+          "url": "https://flash.jin10.com/detail/20260305143637743800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         }
       ]
     }
