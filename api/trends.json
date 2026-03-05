@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T14:47:21.274015+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-03-05T15:40:59.818758+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时28分 ~ 14时47分]"
+          "appearance_count": 7,
+          "time_info": "[07时28分 ~ 15时40分]"
         },
         {
           "title": "中东局势升级但市场情绪暂稳 美股三大期指集体走高 | 今夜看点",
@@ -63,8 +63,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时28分 ~ 14时47分]"
+          "appearance_count": 7,
+          "time_info": "[07时28分 ~ 15时40分]"
         },
         {
           "title": "美股七巨头收盘播报｜亚马逊收涨将近3.9%，特斯拉涨超3.4%",
@@ -342,7 +342,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         }
