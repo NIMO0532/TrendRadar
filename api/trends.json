@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T18:33:01.605844+08:00",
-  "total_titles_processed": 1528,
+  "generated_at": "2026-03-06T19:27:31.016037+08:00",
+  "total_titles_processed": 1619,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时49分 ~ 18时33分]"
+          "appearance_count": 15,
+          "time_info": "[07时49分 ~ 19时27分]"
         },
         {
           "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
@@ -203,7 +203,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         }
@@ -220,11 +220,12 @@
           "ranks": [
             8,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时53分 ~ 18时33分]"
+          "appearance_count": 14,
+          "time_info": "[09时53分 ~ 19时27分]"
         },
         {
           "title": "OpenAI发布GPT-5.4",
@@ -322,8 +323,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时44分 ~ 18时33分]"
+          "appearance_count": 9,
+          "time_info": "[14时44分 ~ 19时27分]"
         },
         {
           "title": "2026胡润全球富豪榜：马斯克5.5万亿元登顶，张一鸣5500亿元蝉联中国首富",
