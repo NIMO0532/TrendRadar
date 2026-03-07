@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T18:21:11.839607+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2026-03-07T19:19:02.832113+08:00",
+  "total_titles_processed": 1490,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时25分 ~ 18时21分]"
+          "appearance_count": 17,
+          "time_info": "[07时25分 ~ 19时19分]"
         },
         {
           "title": "非农疲软提振降息预期，美债走高，美股指低开，纳指跌超1.4%，WTI原油近两年来首破86美元，现货黄金短线拉升",
@@ -117,7 +117,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI推出一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",
@@ -143,6 +143,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时37分 ~ 02时40分]"
+        },
+        {
+          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
+          "url": "https://wallstreetcn.com/articles/3766935",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
         },
         {
           "title": "OpenAI发布AI代理安全工具 或冲击传统网络安全公司",
