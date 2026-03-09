@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T18:43:15.340711+08:00",
-  "total_titles_processed": 1504,
+  "generated_at": "2026-03-09T19:33:59.986843+08:00",
+  "total_titles_processed": 1593,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时31分 ~ 18时43分]"
+          "appearance_count": 14,
+          "time_info": "[02时31分 ~ 19时33分]"
         },
         {
           "title": "美股三大股指期货周一全线低开，均跌1%。",
@@ -72,7 +72,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         }
