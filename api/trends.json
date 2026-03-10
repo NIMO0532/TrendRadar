@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T12:07:43.306543+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2026-03-10T13:44:06.612300+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时36分 ~ 12时07分]"
+          "appearance_count": 6,
+          "time_info": "[07时36分 ~ 13时44分]"
         },
         {
           "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
@@ -123,6 +123,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时31分]"
+        },
+        {
+          "title": "美股将迎“全年无休”交易时代 纳斯达克推进股票上链机制",
+          "url": "https://www.cls.cn/detail/2307671",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 13时44分]"
         },
         {
           "title": "惠与第一财季净营收93亿美元，分析师预期93.7亿美元。 第一财季调整后每股收益（EPS）为0.65美元，分析师预期0.58美元。 预计第二财季净营收96亿-100亿美元，分析师预期95.7亿美元。 预计第二财季调整后EPS为0.51-0.55美元，分析师预期0.53美元。 惠与（HPE）美股盘后涨5%。",
