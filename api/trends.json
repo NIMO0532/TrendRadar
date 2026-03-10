@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-10T09:48:02.769779+08:00",
-  "total_titles_processed": 913,
+  "generated_at": "2026-03-10T12:07:43.306543+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 15,
       "titles": [
+        {
+          "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2307796",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 12时07分]"
+        },
         {
           "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
           "url": "https://www.cls.cn/detail/2307187",
@@ -19,18 +31,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时56分 ~ 06时26分]"
-        },
-        {
-          "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2307796",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时36分 ~ 09时48分]"
         },
         {
           "title": "全球股债遭遇双杀！美股三大股指开盘走低，芯片股普跌，美油回落至100美元下方",
