@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T00:11:07.730507+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-11T01:44:51.968815+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时44分]"
         },
         {
           "title": "波音(BA.N)公布2月交付数据公布后，美股股价下跌3.1%。",
@@ -25,7 +25,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
         }
@@ -42,7 +42,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
         }
