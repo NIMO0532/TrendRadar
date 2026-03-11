@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T17:40:23.819359+08:00",
-  "total_titles_processed": 1559,
+  "generated_at": "2026-03-11T18:37:15.469772+08:00",
+  "total_titles_processed": 1658,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时47分 ~ 17时40分]"
+          "appearance_count": 11,
+          "time_info": "[09时47分 ~ 18时37分]"
         },
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -224,6 +224,18 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "福布斯年度富豪榜：马斯克8390亿美元蝉联全球首富，张一鸣中国首富",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32746579",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时41分 ~ 18时37分]"
+        },
+        {
           "title": "马斯克旗下xAI获准在美国密西西比修建发电站。 但目前，该公司的排污问题让人感到忧心忡忡。",
           "url": "https://wallstreetcn.com/livenews/3067532",
           "source": "华尔街见闻-快讯",
@@ -234,18 +246,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时37分 ~ 04时31分]"
-        },
-        {
-          "title": "福布斯年度富豪榜：马斯克8390亿美元蝉联全球首富，张一鸣中国首富",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32746579",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时41分 ~ 17时40分]"
         },
         {
           "title": "马斯克批评“养虾热潮”",
