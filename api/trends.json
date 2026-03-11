@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T19:32:16.501558+08:00",
-  "total_titles_processed": 1747,
+  "generated_at": "2026-03-11T20:54:52.963139+08:00",
+  "total_titles_processed": 1859,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时47分 ~ 19时32分]"
+          "appearance_count": 13,
+          "time_info": "[09时47分 ~ 20时54分]"
         },
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -230,11 +230,12 @@
           "ranks": [
             14,
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时41分 ~ 19时32分]"
+          "appearance_count": 8,
+          "time_info": "[15时41分 ~ 20时54分]"
         },
         {
           "title": "马斯克旗下xAI获准在美国密西西比修建发电站。 但目前，该公司的排污问题让人感到忧心忡忡。",
