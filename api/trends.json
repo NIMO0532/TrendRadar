@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T16:39:26.377685+08:00",
-  "total_titles_processed": 1348,
+  "generated_at": "2026-03-12T17:40:28.280122+08:00",
+  "total_titles_processed": 1465,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时23分 ~ 16时39分]"
+          "appearance_count": 8,
+          "time_info": "[07时23分 ~ 17时40分]"
         },
         {
           "title": "美股收盘：美伊冲突扰动市场 三大指数涨跌互现 甲骨文绩后飙升9%",
@@ -75,7 +75,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -246,7 +246,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         }
