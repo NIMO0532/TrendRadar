@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T13:46:52.004840+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2026-03-13T14:49:49.090259+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时22分 ~ 13时46分]"
+          "appearance_count": 8,
+          "time_info": "[06时22分 ~ 14时49分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
@@ -51,8 +51,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 13时46分]"
+          "appearance_count": 4,
+          "time_info": "[12时10分 ~ 14时49分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌300点，金银下挫",
@@ -200,7 +200,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "马斯克旗下xAI从Cursor挖走两名高级领导人。（The Information）",
@@ -236,6 +236,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "发生了什么？伊朗最高领袖这一举动让马斯克站上“风口浪尖”",
+          "url": "https://www.cls.cn/detail/2311539",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
         },
         {
           "title": "马斯克表示欢迎Jason Ginsberg、Andrew Milich加入xAI。",
