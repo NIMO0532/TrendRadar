@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T02:38:20.723745+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-03-14T03:30:50.779733+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时30分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股盘中）",
@@ -48,7 +48,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
         },
@@ -75,11 +75,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 02时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 03时30分]"
         },
         {
           "title": "据英国金融时报：埃隆·马斯克下令xAI再裁员。",
