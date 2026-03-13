@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T19:29:32.505826+08:00",
-  "total_titles_processed": 1676,
+  "generated_at": "2026-03-13T20:53:47.039833+08:00",
+  "total_titles_processed": 1800,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时10分 ~ 19时29分]"
+          "appearance_count": 11,
+          "time_info": "[12时10分 ~ 20时53分]"
         },
         {
           "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
@@ -294,6 +294,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "青岛啤酒 百威亚太 华润啤酒 燕京啤酒 重庆啤酒 啤酒",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "男子伪造3.7万个拉环每天兑10箱啤酒",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BC%AA%E9%80%A03.7%E4%B8%87%E4%B8%AA%E6%8B%89%E7%8E%AF%E6%AF%8F%E5%A4%A9%E5%85%9110%E7%AE%B1%E5%95%A4%E9%85%92%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         }
       ]
     }
