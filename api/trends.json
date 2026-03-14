@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T19:22:50.332813+08:00",
-  "total_titles_processed": 1359,
+  "generated_at": "2026-03-14T20:44:25.121114+08:00",
+  "total_titles_processed": 1454,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时49分 ~ 19时22分]"
+          "appearance_count": 13,
+          "time_info": "[09时49分 ~ 20时44分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时25分 ~ 19时22分]"
+          "appearance_count": 15,
+          "time_info": "[07时25分 ~ 20时44分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股收盘）",
@@ -214,7 +214,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
