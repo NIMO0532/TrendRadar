@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T12:09:44.466817+08:00",
-  "total_titles_processed": 897,
+  "generated_at": "2026-03-14T13:43:49.188227+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "[00时37分 ~ 07时26分]"
         },
         {
+          "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
+          "url": "https://www.cls.cn/detail/2312848",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时25分 ~ 13时43分]"
+        },
+        {
           "title": "美伊冲突升级，美股倒V、连跌三周！Mag7陷入回调，Meta跌近4%，美元破百",
           "url": "https://wallstreetcn.com/articles/3767492",
           "source": "华尔街见闻",
@@ -26,20 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 12时09分]"
-        },
-        {
-          "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
-          "url": "https://www.cls.cn/detail/2312848",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时25分 ~ 12时09分]"
+          "appearance_count": 3,
+          "time_info": "[09时49分 ~ 13时43分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股收盘）",
@@ -185,11 +186,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 12时09分]"
+          "appearance_count": 3,
+          "time_info": "[09时49分 ~ 13时43分]"
         },
         {
           "title": "据英国金融时报：埃隆·马斯克下令xAI再裁员。",
