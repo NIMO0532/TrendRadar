@@ -1,180 +1,50 @@
 {
-  "generated_at": "2026-03-15T23:27:18.952721+08:00",
-  "total_titles_processed": 1418,
+  "generated_at": "2026-03-16T00:31:57.111867+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美伊冲突升级，美股倒V、连跌三周！Mag7陷入回调，Meta跌近4%，美元破百",
-          "url": "https://wallstreetcn.com/articles/3767492",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时23分]"
-        },
-        {
-          "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
-          "url": "https://www.cls.cn/detail/2312848",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 18时27分]"
-        },
-        {
-          "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
-          "url": "https://wallstreetcn.com/articles/3767500",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时25分]"
-        },
-        {
-          "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
-          "url": "https://wallstreetcn.com/articles/3767545",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时24分 ~ 23时27分]"
-        },
-        {
-          "title": "美股“异相”：ETF成交量飙升",
-          "url": "https://wallstreetcn.com/articles/3767510",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 10时05分]"
-        },
-        {
-          "title": "金融博客零对冲：恐慌指数VIX与整体波动性的脱节程度有多严重？VIX指数目前仅为美国“解放日”（2025年4月2日）时水平的三分之一（受美股“七巨头”资本支出预期支撑），而整体市场波动性却与2025年4月崩盘时相当。",
-          "url": "https://flash.jin10.com/detail/20260315102410675800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "马斯克",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
         {
           "title": "特斯拉“造芯”真来了！马斯克官宣：Terafab项目7天后启动",
           "url": "https://www.cls.cn/detail/2313116",
           "source": "财联社热门",
           "ranks": [
-            12,
-            11,
-            10,
-            8,
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时43分 ~ 23时27分]"
-        },
-        {
-          "title": "Space X IPO，马斯克要学“马老师”",
-          "url": "https://wallstreetcn.com/articles/3767527",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时03分 ~ 18时27分]"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 00时31分]"
         },
         {
           "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
           "url": "https://wallstreetcn.com/articles/3767539",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时27分 ~ 23时27分]"
-        },
-        {
-          "title": "马斯克xAI联创团队几乎全跑了",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8BxAI%E8%81%94%E5%88%9B%E5%9B%A2%E9%98%9F%E5%87%A0%E4%B9%8E%E5%85%A8%E8%B7%91%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时03分 ~ 16时34分]"
-        },
-        {
-          "title": "马斯克回应其个人财富占全球GDP近1%",
-          "url": "https://www.toutiao.com/trending/7616607470194180115/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "获马斯克背书的英国新政党正与法拉奇争夺选民",
-          "url": "https://wallstreetcn.com/livenews/3070288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时45分"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 00时31分]"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "美国法官：马斯克使用氯胺酮的情况不得在OpenAI欺诈案审理中被探究",
-          "url": "https://wallstreetcn.com/livenews/3070282",
-          "source": "华尔街见闻-快讯",
+          "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
+          "url": "https://wallstreetcn.com/articles/3767545",
+          "source": "华尔街见闻",
           "ranks": [
-            14
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时24分"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 00时31分]"
         }
       ]
     }
