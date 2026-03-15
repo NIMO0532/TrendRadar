@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T21:45:11.863556+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-03-15T22:28:41.810435+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时24分 ~ 21时45分]"
+          "appearance_count": 5,
+          "time_info": "[19时24分 ~ 22时28分]"
         },
         {
           "title": "美股“异相”：ETF成交量飙升",
@@ -92,11 +92,12 @@
             12,
             11,
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时43分 ~ 21时45分]"
+          "appearance_count": 10,
+          "time_info": "[15时43分 ~ 22时28分]"
         },
         {
           "title": "Space X IPO，马斯克要学“马老师”",
@@ -120,8 +121,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时27分 ~ 21时45分]"
+          "appearance_count": 6,
+          "time_info": "[18时27分 ~ 22时28分]"
         },
         {
           "title": "马斯克xAI联创团队几乎全跑了",
