@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T14:53:58.003062+08:00",
-  "total_titles_processed": 795,
+  "generated_at": "2026-03-15T15:44:01.525844+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 14时53分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 15时44分]"
         },
         {
           "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
@@ -69,7 +69,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Space X IPO，马斯克要学“马老师”",
@@ -80,8 +80,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时03分 ~ 14时53分]"
+          "appearance_count": 4,
+          "time_info": "[13时03分 ~ 15时44分]"
         },
         {
           "title": "马斯克xAI联创团队几乎全跑了",
@@ -89,11 +89,23 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            14
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时03分 ~ 15时44分]"
+        },
+        {
+          "title": "特斯拉“造芯”真来了！马斯克官宣：Terafab项目7天后启动",
+          "url": "https://www.cls.cn/detail/2313116",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时03分 ~ 14时53分]"
+          "time_info": "[15时43分 ~ 15时44分]"
         }
       ]
     }
