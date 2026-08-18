@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-18T13:26:25.394155+08:00",
-  "total_titles_processed": 767,
+  "generated_at": "2026-08-18T14:38:32.401442+08:00",
+  "total_titles_processed": 878,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "特朗普最新支持率公布",
+          "url": "https://news.ifeng.com/c/8vgNsInzDsl",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 14时38分]"
+        },
         {
           "title": "特朗普要求伊朗举白旗投降",
           "url": "https://news.ifeng.com/c/8vfb7aoIQAb",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 05时23分]"
+        },
+        {
+          "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
+          "url": "https://wallstreetcn.com/articles/3779635",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 14时38分]"
         },
         {
           "title": "特朗普向朝韩发出强烈信号，信息量很大",
@@ -41,28 +63,6 @@
           "time_info": "[00时23分 ~ 05时23分]"
         },
         {
-          "title": "特朗普最新支持率公布",
-          "url": "https://news.ifeng.com/c/8vgNsInzDsl",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 13时26分]"
-        },
-        {
-          "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
-          "url": "https://wallstreetcn.com/articles/3779635",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 13时26分]"
-        },
-        {
           "title": "美以盟友关系现裂痕 特朗普称以色列应停止对加沙的袭击",
           "url": "https://flash.jin10.com/detail/20260818002159411800",
           "source": "金十数据",
@@ -85,15 +85,27 @@
           "time_info": "05时23分"
         },
         {
+          "title": "阿曼正和伊朗斡旋，却收到特朗普的轰炸威胁，咋回事？",
+          "url": "https://news.ifeng.com/c/8vgfXfy9cpA",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "美国议员：特朗普把欺骗到底当美德",
           "url": "https://www.toutiao.com/trending/7674814398469947401/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 14时38分]"
         },
         {
           "title": "特朗普：金正恩已回应其对话请求",
@@ -101,11 +113,12 @@
           "source": "凤凰网",
           "ranks": [
             10,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 13时26分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 14时38分]"
         },
         {
           "title": "特朗普将宣布霍尔木兹为美国领土",
@@ -148,7 +161,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -197,6 +210,17 @@
           "time_info": "05时23分"
         },
         {
+          "title": "从调停人到“替罪羊”？特朗普为何突然盯上阿曼",
+          "url": "https://flash.jin10.com/detail/20260818140440429800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "美国贸易代表格里尔称，总统特朗普扬言对英国征收100%关税并非虚张声势。 当被问及英国废除数字服务税是否设有最后期限时，格里尔表示：“我不会设定人为划定的时间期限。”（英国泰晤士报）",
           "url": "https://wallstreetcn.com/livenews/3150666",
           "source": "华尔街见闻-快讯",
@@ -222,7 +246,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
@@ -233,8 +257,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 13时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 14时38分]"
         },
         {
           "title": "强撑颜面：美国派出第三艘航母，伊朗威胁升级冲突",
@@ -255,8 +279,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 13时26分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 14时38分]"
         },
         {
           "title": "美伊60天谈判期届满，伊朗：已决定从防御转向全面进攻",
@@ -266,8 +290,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 13时26分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 14时38分]"
         },
         {
           "title": "为向伊朗革命卫队传话，美国找了谁？",
@@ -277,8 +301,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 13时26分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 14时38分]"
+        },
+        {
+          "title": "伊朗启动南部地区最大的科学与电子中心建设",
+          "url": "https://flash.jin10.com/detail/20260818141706492800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "“美防长要丢工作了，可能要为伊朗战争背锅”",
@@ -289,8 +324,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 13时26分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 14时38分]"
         },
         {
           "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
@@ -321,7 +356,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -343,7 +378,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -354,7 +389,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -365,7 +400,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -376,7 +411,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -387,7 +422,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -420,6 +455,17 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400",
+          "url": "https://wallstreetcn.com/articles/3779603",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 14时38分]"
+        },
+        {
           "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
           "url": "https://wallstreetcn.com/articles/3779560",
           "source": "华尔街见闻",
@@ -431,17 +477,6 @@
           "time_info": "[00时23分 ~ 05时23分]"
         },
         {
-          "title": "中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400",
-          "url": "https://wallstreetcn.com/articles/3779603",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 13时26分]"
-        },
-        {
           "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
           "url": "https://www.cls.cn/detail/2456558",
           "source": "财联社热门",
@@ -449,8 +484,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 13时26分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 14时38分]"
         },
         {
           "title": "荷兰国际银行：美伊停火协议到期，美债市场“偏空基调”还将延续",
@@ -469,11 +504,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 13时26分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 14时38分]"
         },
         {
           "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
@@ -484,8 +520,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 13时26分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 14时38分]"
         },
         {
           "title": "地产ETF、长端美债ETF收跌超0.8%，领跌美股大类资产类ETF",
@@ -546,7 +582,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
@@ -582,6 +618,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "美股期货走低，纳斯达克100指数期货跌超1%，标普500指数期货跌0.5%，道指期货跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3150885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "金十图示：2026年08月17日（周一）美股热门股票行情一览（美股收盘）",
@@ -734,7 +781,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         }
@@ -771,8 +818,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 13时26分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 14时38分]"
         }
       ]
     },
